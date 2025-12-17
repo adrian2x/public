@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CWAN", "2025-12-08 00:00:00.000000", "DAS SOUVIK", "Chief Technology Officer", "S", 21.59, -10000, 215880.0, "Class A Common Stock"]]}

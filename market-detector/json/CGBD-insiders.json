@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CGBD", "2025-11-14 00:00:00.000000", "NESTOR JOHN G", "Director", "S", 11.87, -7085, 84099.0, "Common Stock"]]}

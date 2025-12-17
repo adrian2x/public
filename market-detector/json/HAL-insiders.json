@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HAL", "2025-12-05 00:00:00.000000", "BECKWITH VAN H", "EVP Secretary and CLO", "S", 27.89, -8854, 246938.0, "Common Stock"]]}

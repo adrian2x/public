@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["DORM", "2025-12-12 00:00:00.000000", "MCKNIGHT JOHN", "President Heavy Duty", "S", 128.8, -2000, 257596.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TMDX", "2025-12-04 00:00:00.000000", "HERNANDEZ GERARDO", "Chief Financial Officer", "S", 139.62, -920, 128450.0, "Common Stock"]]}

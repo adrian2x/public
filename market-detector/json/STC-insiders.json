@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["STC", "2025-12-02 00:00:00.000000", "SHECKLER ERINLEA", "Group President", "F", 76.47, -205, 15676.0, "Common Stock"]]}

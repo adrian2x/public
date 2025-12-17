@@ -1,1 +1,0 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ORCL", "2025-10-28 00:00:00.000000", "BERG JEFFREY", "Director", "S", 283.02, -49365, 13971266.0, "Common Stock"]]}

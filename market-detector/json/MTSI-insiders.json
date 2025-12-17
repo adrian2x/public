@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MTSI", "2025-12-09 00:00:00.000000", "OCAMPO SUSAN", "10% Owner", "S", 190.07, -121067, 23011205.0, "Common Stock"]]}

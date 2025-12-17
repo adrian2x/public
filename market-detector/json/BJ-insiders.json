@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BJ", "2025-12-05 00:00:00.000000", "WERNER WILLIAM C", "EVP Strategy  Development", "S", 91.09, -7000, 637630.0, "Common Stock"]]}

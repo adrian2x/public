@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CATY", "2025-12-04 00:00:00.000000", "TANG ANTHONY M", "Vice Chairman", "S", 49.88, -5000, 249420.0, "Common Stock"]]}

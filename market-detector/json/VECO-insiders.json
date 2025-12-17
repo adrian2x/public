@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["VECO", "2025-12-10 00:00:00.000000", "WILKERSON SUSAN", "SVP GLOBAL SALES  SERVICE", "S", 31.88, -33000, 1052040.0, "Common Stock"]]}

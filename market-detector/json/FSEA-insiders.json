@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FSEA", "2025-12-09 00:00:00.000000", "DONOVAN RICHARD M", "President and CFO", "P", 12.23, 2322, 28397.0, "Common Stock"]]}

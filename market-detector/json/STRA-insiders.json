@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["STRA", "2025-12-11 00:00:00.000000", "GRUSKY ROBERT R", "Director", "S", 80.03, -1403, 112282.0, "Common Stock"]]}

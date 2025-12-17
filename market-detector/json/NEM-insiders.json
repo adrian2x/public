@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NEM", "2025-12-01 00:00:00.000000", "BROOK BRUCE R", "Director", "S", 92.36, -2080, 192109.0, "Common Stock 1.60 par value"]]}

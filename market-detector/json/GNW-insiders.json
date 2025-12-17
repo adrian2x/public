@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GNW", "2025-12-02 00:00:00.000000", "MCINERNEY THOMAS J", "President and CEO Director", "S", 8.64, -40000, 345600.0, "Common Stock"]]}

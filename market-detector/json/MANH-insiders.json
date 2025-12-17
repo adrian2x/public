@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MANH", "2025-11-28 00:00:00.000000", "CLARK ERIC ANDREW", "President  CEO", "S", 176.4, -1600, 282235.0, "Common Stock"]]}

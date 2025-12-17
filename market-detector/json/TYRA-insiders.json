@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TYRA", "2025-12-12 00:00:00.000000", "BENSEN DANIEL", "Chief Discovery Officer", "S", 22.64, -8000, 181160.0, "Common Stock"]]}

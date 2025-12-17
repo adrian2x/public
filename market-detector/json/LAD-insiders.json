@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["LAD", "2025-12-12 00:00:00.000000", "LORETZ CONGDON STACY", "Director", "S", 360.0, -75, 27000.0, "Lithia Motors Inc Common Stock"]]}

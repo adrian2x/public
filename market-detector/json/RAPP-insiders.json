@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["RAPP", "2025-12-15 00:00:00.000000", "BREDT DAVID", "Chief Scientific Officer", "S", 30.31, -8500, 255131.0, "Common Stock"]]}

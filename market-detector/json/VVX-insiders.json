@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["VVX", "2025-12-11 00:00:00.000000", "AMERICAN INDUSTRIAL PARTNERS CAPITAL FUND VI LP", "10% Owner", "S", 55.05, -1200000, 66060000.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EBC", "2025-12-08 00:00:00.000000", "BORGEN LUIS", "Director", "S", 19.33, -4500, 86985.0, "Common Stock"]]}

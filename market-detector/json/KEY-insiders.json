@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["KEY", "2025-12-09 00:00:00.000000", "BANK OF NOVA SCOTIA", "Director", "D", 18.86, -100316, 1891960.0, "Common Shares"]]}

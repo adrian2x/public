@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MSCI", "2025-12-11 00:00:00.000000", "WIECHMANN ANDREW C", "Chief Financial Officer", "S", 550.0, -450, 247500.0, "Common Stock"]]}

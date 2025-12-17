@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["LYFT", "2025-12-10 00:00:00.000000", "RISHER JOHN DAVID", "Chief Executive Officer", "P", 19.8, 5030, 99619.0, "Class A Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["IDXX", "2025-12-01 00:00:00.000000", "PEACOCK KAREN", "Director", "A", 727.97, 231, 168161.0, "Non-Qualified Stock Option right-to-buy"]]}

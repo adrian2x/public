@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NOW", "2025-12-05 00:00:00.000000", "MASTANTUONO GINA", "President and CFO", "S", 850.0, -415, 352750.0, "Common Stock"]]}

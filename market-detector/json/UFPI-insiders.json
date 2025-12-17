@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["UFPI", "2025-12-11 00:00:00.000000", "MISSAD MATTHEW J", "Executive Chairman", "S", 92.26, -11000, 1014860.0, "Common Stock"]]}

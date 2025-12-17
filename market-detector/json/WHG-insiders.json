@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["WHG", "2025-12-10 00:00:00.000000", "CASEY BRIAN O", "CEO", "S", 16.55, -8341, 138035.0, "common stock"]]}

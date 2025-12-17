@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MPWR", "2025-12-01 00:00:00.000000", "BLEGEN THEODORE", "EVP and CFO", "S", 905.29, -3000, 2724622.0, "Common Stock"]]}

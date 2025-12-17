@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EXPI", "2025-12-14 00:00:00.000000", "HILL JESSE P", "Chief Financial Officer", "F", 10.6, -333, 3530.0, "Common Stock"]]}

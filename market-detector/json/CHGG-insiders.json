@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CHGG", "2025-12-12 00:00:00.000000", "ROSENSWEIG DANIEL", "EXECUTIVE CHAIRMAN", "F", 0.92, -6337, 5830.0, "Common Stock"]]}

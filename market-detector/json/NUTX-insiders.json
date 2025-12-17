@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NUTX", "2025-11-25 00:00:00.000000", "BATES JON CHRISTIAN", "Chief Financial Officer", "P", 136.71, 750, 102532.0, "Common Stock"]]}

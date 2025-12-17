@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ON", "2025-12-04 00:00:00.000000", "KEETON SIMON", "Group President PSG", "S", 55.72, -21000, 1170057.0, "Common"]]}

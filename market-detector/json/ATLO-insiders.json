@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ATLO", "2025-12-10 00:00:00.000000", "TROST SCOT A", "Director", "P", 22.88, 200, 4576.0, "Common Stock"]]}

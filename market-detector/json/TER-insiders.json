@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TER", "2025-12-12 00:00:00.000000", "SMITH GREGORY STEPHEN", "President and CEO", "S", 201.31, -1108, 223051.0, "Common Stock"]]}

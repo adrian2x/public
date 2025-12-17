@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SHCO", "2025-12-05 00:00:00.000000", "COLLINS THOMAS", "Chief Operating Officer", "S", 8.83, -12302, 108639.0, "Class A Common Stock"]]}

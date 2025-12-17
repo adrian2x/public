@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["RXRX", "2025-12-04 00:00:00.000000", "GIBSON CHRISTOPHER", "Chief Executive Officer", "S", 4.63, -40000, 185200.0, "Class A Common Stock"]]}

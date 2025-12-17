@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AXP", "2025-12-12 00:00:00.000000", "JOABAR RAYMOND", "Grp. Pres. Global Comm. Serv.", "S", 384.93, -1400, 538902.0, "Common Stock"]]}

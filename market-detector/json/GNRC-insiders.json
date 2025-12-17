@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GNRC", "2025-12-01 00:00:00.000000", "JAGDFELD AARON", "Chief Executive Officer", "S", 148.27, -5000, 741350.0, "Common Stock"]]}

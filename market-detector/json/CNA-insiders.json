@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CNA", "2025-12-01 00:00:00.000000", "ROBUSTO DINO", "Executive Chairman", "S", 46.92, -6250, 293250.0, "Common Stock"]]}

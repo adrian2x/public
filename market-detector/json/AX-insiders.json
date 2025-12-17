@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AX", "2025-12-09 00:00:00.000000", "WALSH DERRICK", "EVP Chief Financial Officer", "G", 84.63, -150, 12694.0, "Common Stock"]]}

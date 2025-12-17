@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["DIS", "2025-12-12 00:00:00.000000", "GORMAN JAMES P", "Director", "P", 111.89, 18000, 2013948.0, "Disney Common Stock"]]}

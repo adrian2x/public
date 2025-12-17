@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["IR", "2025-12-01 00:00:00.000000", "SCHESKE MICHAEL J", "VP Chief Accounting Officer", "S", 80.63, -1477, 119086.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SLB", "2025-11-26 00:00:00.000000", "COLEMAN PETER JOHN", "Director", "S", 35.82, -5500, 197010.0, "Common Stock 0.01 Par Value Per Share"]]}

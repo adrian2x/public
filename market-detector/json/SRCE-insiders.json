@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SRCE", "2025-12-15 00:00:00.000000", "BUHR JEFFREY L", "Executive Vice President", "S", 66.14, -1175, 77714.0, "Common Stock"]]}

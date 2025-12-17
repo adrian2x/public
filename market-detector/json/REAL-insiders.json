@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["REAL", "2025-12-09 00:00:00.000000", "LO STEVE MING", "Chief Accounting Officer", "S", 14.45, -43926, 634731.0, "Common Stock"]]}

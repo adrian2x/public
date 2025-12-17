@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OSBC", "2025-12-09 00:00:00.000000", "LADOWICZ JOHN", "Director", "S", 20.0, -12500, 250000.0, "Old Second Bancorp Inc. Common Stock"]]}

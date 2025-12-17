@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AMN", "2025-12-15 00:00:00.000000", "SCOTT BRIAN M", "CFOCOO", "F", 16.37, -4370, 71537.0, "Common Stock"]]}

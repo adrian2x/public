@@ -1,1 +1,0 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["POST", "2025-11-25 00:00:00.000000", "CATOGGIO NICOLAS", "PRES  CEO PCB", "S", 100.21, -10000, 1002110.0, "Common Stock"]]}

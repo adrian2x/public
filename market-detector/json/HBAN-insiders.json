@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HBAN", "2025-12-12 00:00:00.000000", "KOWALSKI KENDALL A", "Chief Information Officer", "S", 17.8, -2481, 44174.0, "Common Stock"]]}

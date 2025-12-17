@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TBRG", "2025-12-03 00:00:00.000000", "PINETREE CAPITAL LTD", "10% Owner", "P", 23.0, 10000, 230000.0, "Common Stock"]]}

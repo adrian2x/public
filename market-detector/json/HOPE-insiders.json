@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HOPE", "2025-12-12 00:00:00.000000", "KIM JASON K", "SEVP Chief Bus. Bnking Ofcr", "S", 11.41, -1000, 11410.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MKSI", "2025-12-02 00:00:00.000000", "MORA ELIZABETH", "Director", "S", 158.81, -300, 47643.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CRD.A", "2025-12-11 00:00:00.000000", "VERMA ROHIT", "CEO  President", "S", 11.0, -125414, 1379554.0, "Class A Common Stock"]]}

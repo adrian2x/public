@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["RELY", "2025-12-15 00:00:00.000000", "BLIGNAUT RYNO", "Director", "S", 14.56, -4500, 65520.0, "Common Stock"]]}

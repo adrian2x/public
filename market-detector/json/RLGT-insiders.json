@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["RLGT", "2025-12-11 00:00:00.000000", "GOLDSTEIN ARNOLD", "Chief Commercial Officer", "S", 6.75, -5696, 38448.0, "Common Stock"]]}

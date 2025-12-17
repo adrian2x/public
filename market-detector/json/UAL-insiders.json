@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["UAL", "2025-12-03 00:00:00.000000", "KIRBY J SCOTT", "Chief Executive Officer", "S", 107.86, -120000, 12943800.0, "Common Stock"]]}

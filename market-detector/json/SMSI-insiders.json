@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SMSI", "2025-12-11 00:00:00.000000", "SMITH WILLIAM W JR", "President and CEO", "S", 0.58, -36597, 21263.0, "Common stock"]]}

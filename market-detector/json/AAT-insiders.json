@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AAT", "2025-12-04 00:00:00.000000", "WYLL ADAM", "President  CEO", "F", 19.5, -10478, 204321.0, "Common Stock par value 0.01"]]}

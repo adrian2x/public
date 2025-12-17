@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FLOC", "2025-12-12 00:00:00.000000", "ROBERTS CHAD", "EVP Production Solutions", "S", 19.3, -9253, 178583.0, "Class A Common Stock"]]}

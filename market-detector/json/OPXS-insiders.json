@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OPXS", "2025-12-05 00:00:00.000000", "SCHOENING DANNY ROBERT", "CEO", "A", 14.33, 4700, 67351.0, "Common Stock"]]}

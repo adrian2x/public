@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ALEX", "2025-12-10 00:00:00.000000", "CHING MEREDITH J", "Exec. VP External Affairs", "S", 20.89, -700, 14622.0, "Common Stock"]]}

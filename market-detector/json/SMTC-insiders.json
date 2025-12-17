@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SMTC", "2025-12-05 00:00:00.000000", "SILBERSTEIN ASAF", "EVP and COO", "S", 79.52, -10500, 836248.0, "Common Stock"]]}

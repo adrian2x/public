@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OSIS", "2025-12-13 00:00:00.000000", "HAWKINS JAMES B", "Director", "F", 259.44, -15, 3892.0, "Common Stock"]]}

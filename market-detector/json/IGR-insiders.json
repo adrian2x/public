@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["IGR", "2025-12-12 00:00:00.000000", "SMITH JOSEPH P", "President  CEO", "P", 4.21, 2375, 9999.0, "CBRE GLOBAL REAL ESTATE INCOME FUND"]]}

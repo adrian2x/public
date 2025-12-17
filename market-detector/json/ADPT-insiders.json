@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ADPT", "2025-12-10 00:00:00.000000", "HERSHBERG ROBERT", "Director", "S", 16.0, -22968, 367488.0, "Common Stock"]]}

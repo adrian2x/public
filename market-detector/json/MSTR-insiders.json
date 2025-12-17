@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MSTR", "2025-12-05 00:00:00.000000", "CHOW THOMAS C", "EVP  General Counsel", "A", 178.99, 9843, 1761799.0, "Employee Stock Option Right to buy"]]}

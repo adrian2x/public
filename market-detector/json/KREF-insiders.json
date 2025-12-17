@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["KREF", "2025-12-03 00:00:00.000000", "ROSENBERG RALPH F", "Director", "S", 8.25, -250578, 2067268.0, "Common Stock"]]}

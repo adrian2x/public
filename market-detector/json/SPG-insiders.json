@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SPG", "2025-12-15 00:00:00.000000", "LEWIS RANDALL J", "Director", "P", 183.96, 545, 100258.0, "Common Stock"]]}

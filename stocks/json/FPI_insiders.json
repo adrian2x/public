@@ -1,1 +1,0 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FPI", "2025-11-10 00:00:00.000000", "GOOD JOHN A", "Director", "P", 9.69, 4100, 39737.0, "Common Stock"]]}

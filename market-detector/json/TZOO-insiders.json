@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TZOO", "2025-12-15 00:00:00.000000", "AZZURRO CAPITAL INC", "10% Owner", "S", 7.56, -15000, 113400.0, "Common Stock"]]}

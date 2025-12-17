@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ARTV", "2025-12-15 00:00:00.000000", "ASLAN FRED", "President and CEO", "S", 6.0, -3187, 19122.0, "Common Stock"]]}

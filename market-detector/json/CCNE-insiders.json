@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CCNE", "2025-12-12 00:00:00.000000", "OLSON GARY S", "Director", "S", 27.75, -25000, 693750.0, "Common Stock"]]}

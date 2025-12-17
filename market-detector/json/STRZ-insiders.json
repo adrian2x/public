@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["STRZ", "2025-12-10 00:00:00.000000", "BURNS MICHAEL RAYMOND", "Director", "S", 11.57, -64166, 731117.0, "Common Shares no par value"]]}

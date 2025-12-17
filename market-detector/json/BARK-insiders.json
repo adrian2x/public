@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BARK", "2025-12-15 00:00:00.000000", "KOEHLER ALLISON", "Chief Legal Officer", "F", 0.63, -2915, 1836.0, "Common Stock"]]}

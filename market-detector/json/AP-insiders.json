@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AP", "2025-12-01 00:00:00.000000", "MCBRAYER BRETT", "Chief Executive Officer", "P", 2.58, 19000, 48944.0, "Common Stock"]]}

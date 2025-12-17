@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GMED", "2025-12-12 00:00:00.000000", "NORWALK LESLIE V", "Director", "S", 88.85, -4000, 355400.0, "Class A Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CWST", "2025-12-08 00:00:00.000000", "COLETTA EDMOND", "PRESIDENT", "S", 100.07, -7000, 700490.0, "Class A Common Stock"]]}

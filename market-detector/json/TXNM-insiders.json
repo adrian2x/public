@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TXNM", "2025-12-01 00:00:00.000000", "TARRY JOSEPH DON", "President and CEO", "F", 58.4, -5989, 349758.0, "Common Stock"]]}

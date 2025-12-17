@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EPC", "2025-12-02 00:00:00.000000", "WEISSMAN FRANCESCA", "CFO", "F", 17.0, -798, 13566.0, "Common Stock"]]}

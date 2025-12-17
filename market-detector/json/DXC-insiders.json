@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["DXC", "2025-12-11 00:00:00.000000", "VOCI CHRISTOPHER ANTHONY", "SVP Controller and PAO", "S", 15.16, -2500, 37880.0, "Common Stock"]]}

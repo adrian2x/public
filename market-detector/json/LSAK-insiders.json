@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["LSAK", "2025-12-10 00:00:00.000000", "SMITH DANIEL LUKE", "Group CFO", "P", 4.4, 11503, 50613.0, "Common Stock"]]}

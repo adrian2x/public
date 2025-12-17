@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["YELP", "2025-12-16 00:00:00.000000", "SCHWARZBACH DAVID A", "Chief Financial Officer", "S", 30.41, -13500, 410522.0, "Common Stock"]]}

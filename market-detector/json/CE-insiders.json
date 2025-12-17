@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CE", "2025-12-10 00:00:00.000000", "RICHARDSON SCOTT A", "CEO  President", "P", 41.59, 3800, 158042.0, "Common Stock"]]}

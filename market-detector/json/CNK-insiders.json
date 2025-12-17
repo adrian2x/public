@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CNK", "2025-12-10 00:00:00.000000", "THOMAS MELISSA", "EVP Chief Financial Officer", "S", 24.81, -22082, 547854.0, "Common Stock"]]}

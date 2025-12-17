@@ -1,1 +1,0 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HURN", "2025-11-19 00:00:00.000000", "MCCARTNEY JOHN", "Director", "S", 161.75, -6500, 1049369.0, "Common Stock"]]}

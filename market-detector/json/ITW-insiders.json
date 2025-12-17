@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ITW", "2025-12-10 00:00:00.000000", "SMITH DAVID BYRON JR", "Director", "P", 250.13, 6709, 1678122.0, "Common Stock"]]}

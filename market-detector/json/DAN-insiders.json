@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["DAN", "2025-11-28 00:00:00.000000", "MCDONALD R BRUCE", "Chairman  CEO", "F", 22.48, -2412, 54222.0, "Common Stock par value 0.01"]]}

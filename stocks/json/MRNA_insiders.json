@@ -1,1 +1,0 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MRNA", "2025-10-03 00:00:00.000000", "MOCK JAMES M", "Chief Financial Officer", "F", 28.37, -703, 19944.0, "Common Stock"]]}

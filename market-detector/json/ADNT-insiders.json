@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ADNT", "2025-11-26 00:00:00.000000", "BERTHELIN MICHEL PIERRE ROSE", "EVP EMEA", "S", 19.71, -2500, 49275.0, "Ordinary Shares"]]}

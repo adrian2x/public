@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ANDE", "2025-12-12 00:00:00.000000", "STOUT JOHN T JR", "Director", "S", 53.0, -2500, 132500.0, "Common Stock"]]}

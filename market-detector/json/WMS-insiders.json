@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["WMS", "2025-12-03 00:00:00.000000", "EVERSOLE ROBERT M", "Director", "S", 152.82, -10569, 1615155.0, "Common Stock"]]}

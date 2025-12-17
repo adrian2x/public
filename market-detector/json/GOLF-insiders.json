@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GOLF", "2025-12-15 00:00:00.000000", "LINDNER CHRISTOPHER AARON", "President - FootJoy", "S", 85.0, -6500, 552500.0, "Common Stock"]]}

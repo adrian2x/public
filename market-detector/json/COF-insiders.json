@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["COF", "2025-12-02 00:00:00.000000", "COOPER MATTHEW W", "General Counsel  Corp Secy", "S", 221.54, -2000, 443080.0, "Common Stock"]]}

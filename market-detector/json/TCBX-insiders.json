@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TCBX", "2025-12-01 00:00:00.000000", "BRUNSON W DONALD", "Director", "S", 38.53, -1500, 57818.0, "Common Stock"]]}

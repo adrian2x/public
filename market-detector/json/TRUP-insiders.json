@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TRUP", "2025-11-28 00:00:00.000000", "GALLAGHER JOHN R", "Chief Operating Officer", "S", 34.82, -6383, 222282.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CLB", "2025-12-01 00:00:00.000000", "TEO SOW HANG", "CAO  Treasurer", "F", 15.39, -340, 5233.0, "Common Stock"]]}

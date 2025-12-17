@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NUVL", "2025-12-10 00:00:00.000000", "SQUARER RON", "Director", "A", 105.74, 4418, 467159.0, "Stock Option Right to Buy"]]}

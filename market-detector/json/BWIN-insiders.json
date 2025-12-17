@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BWIN", "2025-12-15 00:00:00.000000", "ROCHE JAMES MORGAN", null, "S", 24.34, -80000, 1922736.0, "Class A Common Stock"]]}

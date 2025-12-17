@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["USFD", "2025-12-01 00:00:00.000000", "LOBRED ANNMARIE M", null, "A", 65.89, 46, 3031.0, "Common Stock"]]}

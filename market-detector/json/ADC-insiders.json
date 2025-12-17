@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ADC", "2025-12-01 00:00:00.000000", "BRESLIN STEPHEN", "CHIEF ACCOUNTING OFFICER", "F", 74.64, -262, 19556.0, "Common Shares"]]}

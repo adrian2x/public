@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GAP", "2025-12-12 00:00:00.000000", "FISHER WILLIAM SYDNEY", "Director", "S", 26.81, -11140, 298663.0, "Common Stock"]]}

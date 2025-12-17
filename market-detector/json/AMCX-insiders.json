@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AMCX", "2025-12-10 00:00:00.000000", "ROMANELLO SALVATORE", "EVP  General Counsel", "F", 9.71, -15730, 152738.0, "AMC Networks Inc. Class A Common Stock"]]}

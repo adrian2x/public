@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PGNY", "2025-12-11 00:00:00.000000", "LIVINGSTON MARK S", "CHIEF FINANCIAL OFFICER", "S", 25.5, -459, 11704.0, "Common Stock"]]}

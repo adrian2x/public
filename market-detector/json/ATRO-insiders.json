@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ATRO", "2025-12-04 00:00:00.000000", "GUNDERMANN PETER J", "PRESIDENTCEO", "A", 51.72, 29750, 1538670.0, "Option"]]}

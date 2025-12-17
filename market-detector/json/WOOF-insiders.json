@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["WOOF", "2025-12-01 00:00:00.000000", "VENEZIA PATRICK J", "Chief Revenue Officer", "S", 3.08, -74192, 228511.0, "Class A Common Stock"]]}

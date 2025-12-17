@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ROKU", "2025-12-15 00:00:00.000000", "JEDDA DAN", "CFO  COO", "S", 107.44, -3000, 322320.0, "Class A Common Stock"]]}

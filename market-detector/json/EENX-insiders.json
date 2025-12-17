@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EENX", "2025-12-11 00:00:00.000000", "JOHNSON MARCUS MARION", "President", "P", 2.5, 265, 662.0, "Common Stock"]]}

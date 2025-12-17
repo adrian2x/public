@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ZONE", "2025-12-01 00:00:00.000000", "ENHOLM DAVID JAMES", "Chief Financial Officer", "P", 0.3, 18750, 5588.0, "Common Stock"]]}

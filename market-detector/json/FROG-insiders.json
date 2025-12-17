@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FROG", "2025-12-12 00:00:00.000000", "LANDMAN YOAV", "CHIEF TECHNOLOGY OFFICER", "S", 69.0, -45000, 3095755.0, "Ordinary Shares"]]}

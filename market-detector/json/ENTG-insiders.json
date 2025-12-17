@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ENTG", "2025-12-10 00:00:00.000000", "LEDERER JAMES P", "Director", "S", 92.84, -2008, 186423.0, "Common Stock"]]}

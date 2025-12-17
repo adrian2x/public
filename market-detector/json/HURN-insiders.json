@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HURN", "2025-12-12 00:00:00.000000", "SINGHBUSHELL EKTA", "Director", "S", 178.55, -1000, 178550.0, "Common Stock"]]}

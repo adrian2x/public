@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["RGLD", "2025-12-11 00:00:00.000000", "VANCE RONALD J", "Director", "S", 218.29, -500, 109145.0, "Common Stock"]]}

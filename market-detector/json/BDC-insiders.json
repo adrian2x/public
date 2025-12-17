@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BDC", "2025-12-11 00:00:00.000000", "KLEIN JONATHAN C", "Director", "S", 124.19, -3000, 372570.0, "Common Stock"]]}

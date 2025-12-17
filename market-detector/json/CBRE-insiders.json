@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CBRE", "2025-12-08 00:00:00.000000", "SULENTIC ROBERT E", "Chair  CEO", "F", 155.39, -8742, 1358419.0, "Class A Common Stock"]]}

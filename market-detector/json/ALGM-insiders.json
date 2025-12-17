@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ALGM", "2025-12-10 00:00:00.000000", "BRIANSKY SHARON", "SVP GC and Secretary", "S", 30.0, -27873, 836190.0, "Common Stock"]]}

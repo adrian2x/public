@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AKAM", "2025-12-15 00:00:00.000000", "MCGOWAN EDWARD J", "Chief Financial Officer", "S", 88.03, -6560, 577477.0, "Common Stock"]]}

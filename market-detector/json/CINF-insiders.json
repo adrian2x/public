@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CINF", "2025-12-03 00:00:00.000000", "WILKINS EDWARD SCOTT", "Director", "P", 163.77, 140, 22928.0, "Common Stock"]]}

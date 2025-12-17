@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BCO", "2025-12-15 00:00:00.000000", "SWEENEY MICHAEL E", "Controller", "S", 119.5, -1418, 169447.0, "Common Stock"]]}

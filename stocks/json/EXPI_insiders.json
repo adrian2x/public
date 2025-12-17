@@ -1,1 +1,0 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EXPI", "2025-11-25 00:00:00.000000", "SANFORD PENNY", "10% Owner", "S", 12.04, -117179, 1411187.0, "Common Stock"]]}

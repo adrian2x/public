@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["COMP", "2025-12-12 00:00:00.000000", "WAHLERS SCOTT R", "CFO", "S", 11.0, -23500, 258594.0, "Class A Common Stock"]]}

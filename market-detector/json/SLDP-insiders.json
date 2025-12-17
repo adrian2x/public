@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SLDP", "2025-12-04 00:00:00.000000", "ANDERSON ERIK J", "Director", "S", 5.2, -30000, 156060.0, "Common Stock"]]}

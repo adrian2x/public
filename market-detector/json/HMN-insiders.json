@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HMN", "2025-12-01 00:00:00.000000", "ZURAITIS MARITA", "President  CEO", "S", 45.35, -5000, 226750.0, "Common Stock"]]}

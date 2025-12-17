@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FBIN", "2025-12-11 00:00:00.000000", "PAPESH KRISTIN", "EVP and CHRO", "F", 52.44, -303, 15889.0, "Common Stock Par Value 0.01"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["KRMN", "2025-12-12 00:00:00.000000", "KOBLINSKI ANTHONY", "Chief Executive Officer", "S", 69.31, -75000, 5198250.0, "Common Stock"]]}

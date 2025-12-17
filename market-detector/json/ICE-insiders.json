@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ICE", "2025-12-12 00:00:00.000000", "FOLEY DOUGLAS", "SVP HR  Administration", "S", 163.2, -1600, 261120.0, "Common Stock"]]}

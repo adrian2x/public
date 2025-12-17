@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NWPX", "2025-12-15 00:00:00.000000", "WILKINS AARON", "CFO", "S", 63.5, -35, 2222.0, "Common Stock"]]}

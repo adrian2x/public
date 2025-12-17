@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CG", "2025-12-10 00:00:00.000000", "RUBENSTEIN DAVID M", "Director", "S", 56.55, -625000, 35343750.0, "Common Stock"]]}

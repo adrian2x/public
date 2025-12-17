@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AGX", "2025-12-10 00:00:00.000000", "QUINN JAMES W", "Director", "S", 328.04, -1000, 328040.0, "Common Stock"]]}

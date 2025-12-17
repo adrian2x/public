@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["UPWK", "2025-11-26 00:00:00.000000", "BROWN HAYDEN", "President  CEO", "S", 19.44, -275000, 5344250.0, "Common Stock"]]}

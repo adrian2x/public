@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GMRE", "2025-12-05 00:00:00.000000", "DECKER MARK OKEY JR", "CEO and President", "P", 32.51, 10000, 325100.0, "Common Stock"]]}

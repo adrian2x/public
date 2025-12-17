@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CWH", "2025-12-15 00:00:00.000000", "LEMONIS MARCUS", "CHIEF EXECUTIVE OFFICER", "F", 10.0, -242943, 2429430.0, "Class A Common Stock"]]}

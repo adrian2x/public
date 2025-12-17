@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["IZEA", "2025-11-30 00:00:00.000000", "BIERE PETER", "Chief Financial Officer", "F", 5.03, -165, 830.0, "Common Stock"]]}

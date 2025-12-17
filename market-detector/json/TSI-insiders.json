@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TSI", "2025-12-01 00:00:00.000000", "ROONEY ROBERT GERALD", "Director", "P", 4.92, 7900, 38942.0, "Common Stock"]]}

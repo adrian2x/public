@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ACNB", "2025-12-11 00:00:00.000000", "SEIBEL DONALD ARTHUR JR", "Director", "S", 51.0, -5000, 255000.0, "ACNB Corporation Common"]]}

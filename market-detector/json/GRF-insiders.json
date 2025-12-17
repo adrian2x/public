@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GRF", "2025-12-02 00:00:00.000000", "ZALENKO NEAL F", "Director", "P", 10.0, 25, 250.0, "Common Stock"]]}

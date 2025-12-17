@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ANET", "2025-12-01 00:00:00.000000", "GIANCARLO CHARLES H", "Director", "S", 127.81, -8000, 1024748.0, "Common Stock"]]}

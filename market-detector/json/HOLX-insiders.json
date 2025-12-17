@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HOLX", "2025-12-12 00:00:00.000000", "SCHNITTKER BRANDON", "President GYN Surgical", "F", 75.0, -90, 6750.0, "Common Stock"]]}

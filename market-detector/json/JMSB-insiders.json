@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["JMSB", "2025-12-05 00:00:00.000000", "KINNEY JONATHAN CRAIG", "Director", "P", 19.63, 500, 9815.0, "Common Stock"]]}

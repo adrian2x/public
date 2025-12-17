@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CTSH", "2025-12-12 00:00:00.000000", "KIM JOHN SUNSHIN", "CLO CAO  Corporate Secretary", "S", 83.68, -5000, 418405.0, "Class A Common Stock"]]}

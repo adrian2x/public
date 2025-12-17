@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ISRG", "2025-12-15 00:00:00.000000", "BROSIUS MARK", "SVP  Chief Mfg and Supply Cha", "S", 548.49, -464, 254499.0, "Common Stock"]]}

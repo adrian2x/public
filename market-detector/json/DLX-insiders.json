@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["DLX", "2025-12-10 00:00:00.000000", "ZINT WILLIAM C", "SVP Chief Financial Officer", "P", 21.44, 175, 3752.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MP", "2025-12-09 00:00:00.000000", "CORBETT RYAN", "Chief Financial Officer", "S", 60.0, -38146, 2288760.0, "Common Stock"]]}

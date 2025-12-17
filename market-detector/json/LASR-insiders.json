@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["LASR", "2025-12-04 00:00:00.000000", "KEENEY SCOTT H", "President and CEO", "S", 35.42, -15371, 548120.0, "Common Stock"]]}

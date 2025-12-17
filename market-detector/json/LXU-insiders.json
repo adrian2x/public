@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["LXU", "2025-12-12 00:00:00.000000", "GOLSEN BARRY H", "Director", "S", 9.04, -30072, 271851.0, "Common Stock"]]}

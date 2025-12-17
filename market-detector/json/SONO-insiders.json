@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SONO", "2025-12-04 00:00:00.000000", "LAZARUS EDWARD P", "Chief Legal  Bus Dev Officer", "S", 19.0, -12000, 228000.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["WYNN", "2025-12-08 00:00:00.000000", "FERTITTA TILMAN J", "10% Owner", "S", 150.0, -165000, 24750000.0, "Call Option obligation to sell"]]}

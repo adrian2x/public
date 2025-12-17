@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CYRX", "2025-12-10 00:00:00.000000", "MANDALAM RAMKUMAR", "Director", "S", 9.99, -11570, 115538.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EURK", "2025-12-10 00:00:00.000000", "WOLVERINE ASSET MANAGEMENT LLC", "10% Owner", "S", 11.07, -400, 4428.0, "Class A Ordinary Shares"]]}

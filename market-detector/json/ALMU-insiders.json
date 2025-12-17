@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ALMU", "2025-12-10 00:00:00.000000", "TOMPKINS MARK N", "10% Owner", "S", 17.49, -20000, 349800.0, "Common Stock"]]}

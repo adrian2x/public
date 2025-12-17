@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FE", "2025-11-30 00:00:00.000000", "THOMAS TOBY L", "Chief Operating Officer", "F", 47.39, -886, 41988.0, "Common Stock"]]}

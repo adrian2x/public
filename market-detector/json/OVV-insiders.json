@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OVV", "2025-12-12 00:00:00.000000", "GIVENS GREGORY DEAN", "EVP  COO", "S", 40.33, -50000, 2016500.0, "Common Stock"]]}

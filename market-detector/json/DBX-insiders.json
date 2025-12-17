@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["DBX", "2025-12-03 00:00:00.000000", "HOUSTON ANDREW", "Chief Executive Officer", "S", 30.0, -9167, 275010.0, "Class A Common Stock"]]}

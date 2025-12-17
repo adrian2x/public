@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["DV", "2025-12-01 00:00:00.000000", "GRIMMIG ANDREW E", "Chief Legal Officer", "S", 10.46, -1000, 10460.0, "Common Stock"]]}

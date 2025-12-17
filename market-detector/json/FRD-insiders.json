@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FRD", "2025-12-02 00:00:00.000000", "TAYLOR MIKE J", "President  CEO  Director", "P", 18.74, 500, 9370.0, "Common Stock"]]}

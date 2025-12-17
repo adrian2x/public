@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MGPI", "2025-12-10 00:00:00.000000", "SEABERG KAREN", "Director", "S", 25.66, -81616, 2108791.0, "common stock"]]}

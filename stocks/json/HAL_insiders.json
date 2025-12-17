@@ -1,1 +1,0 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HAL", "2025-11-12 00:00:00.000000", "RICHARD MARK", "President - Western Hemisphere", "S", 27.77, -160000, 4443200.0, "Common Stock"]]}

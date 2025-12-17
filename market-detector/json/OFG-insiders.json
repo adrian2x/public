@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OFG", "2025-12-15 00:00:00.000000", "ORTIZ CESAR A", "Chief Risk Officer", "S", 42.17, -5500, 231962.0, "Common Stock"]]}

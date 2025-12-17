@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["XRAY", "2025-12-09 00:00:00.000000", "CZERNEY KEVIN", "VP Chief Accounting Officer", "A", 11.11, 96500, 1072115.0, "Stock Option Right to Buy"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NATR", "2025-12-12 00:00:00.000000", "YATES BRYANT J", "EVP  President Europe", "S", 22.29, -1700, 37893.0, "Common Shares"]]}

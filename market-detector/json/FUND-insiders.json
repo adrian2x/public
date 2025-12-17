@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FUND", "2025-12-10 00:00:00.000000", "GEORGE W WHITNEY", "Director", "G", 8.8, -4500, 39600.0, "Common Stock"]]}

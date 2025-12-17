@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BLFS", "2025-12-04 00:00:00.000000", "WICHTERMAN TROY", "Chief Financial Officer", "S", 25.72, -30000, 771600.0, "Common Stock"]]}

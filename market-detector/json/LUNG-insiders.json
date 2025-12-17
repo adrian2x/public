@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["LUNG", "2025-12-08 00:00:00.000000", "FLORIN DANIEL P", "Director", "S", 1.99, -23321, 46409.0, "Common Stock"]]}

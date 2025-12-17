@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PUMP", "2025-11-26 00:00:00.000000", "FIETZ SHELBY KYLE", "Chief Commercial Officer", "F", 9.42, -39385, 371007.0, "Common Stock"]]}

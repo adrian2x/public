@@ -1,1 +1,0 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["WEX", "2025-11-13 00:00:00.000000", "SMITH STEPHEN MONTGOMERY", "Director", "P", 144.25, 1000, 144250.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OLPX", "2025-12-12 00:00:00.000000", "BALDWIN AMANDA", "Chief Executive Officer", "S", 1.19, -398560, 474286.0, "Common Stock"]]}

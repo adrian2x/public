@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EU", "2025-12-01 00:00:00.000000", "HEILI WAYNE W", "Director", "A", 2.73, 100000, 273000.0, "Stock Option Right to Buy"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["KLIC", "2025-12-08 00:00:00.000000", "WONG NELSON MUNPUN", "Senior Vice President", "S", 50.07, -5004, 250530.0, "Common Stock"]]}

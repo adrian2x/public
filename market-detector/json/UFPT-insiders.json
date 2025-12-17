@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["UFPT", "2025-12-10 00:00:00.000000", "HOLT JASON", "Vice President", "S", 213.58, -100, 21358.0, "Common Stock .01 Par Value"]]}

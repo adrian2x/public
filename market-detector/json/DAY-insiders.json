@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["DAY", "2025-11-28 00:00:00.000000", "HOLDRIDGE STEPHEN H", "President COO", "S", 69.05, -2000, 138100.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SLVM", "2025-12-09 00:00:00.000000", "FERGUSON KEVIN W", "VP ControllerChief Acct.Off.", "S", 48.25, -2000, 96500.0, "Common Stock"]]}

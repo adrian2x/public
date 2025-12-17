@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CLRB", "2025-12-12 00:00:00.000000", "NEIS JOHN", "Director", "S", 3.7, -198, 732.0, "Common Stock"]]}

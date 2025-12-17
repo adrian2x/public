@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["APD", "2025-12-03 00:00:00.000000", "LEFEVERE KURT", "President Asia", "F", 261.28, -209, 54607.0, "Common Stock"]]}

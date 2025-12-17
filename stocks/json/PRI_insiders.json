@@ -1,1 +1,0 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PRI", "2025-11-17 00:00:00.000000", "SCHNEIDER PETER W", "President", "S", 255.3, -2000, 510600.0, "Common Stock"]]}

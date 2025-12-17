@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CHMI", "2025-12-10 00:00:00.000000", "COOK SHARON L", "Director", "S", 2.49, -7427, 18486.0, "Common Stock par value 0.01 per share"]]}

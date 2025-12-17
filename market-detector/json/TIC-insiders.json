@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TIC", "2025-12-03 00:00:00.000000", "SCHULTES KRISTIN B", "Chief Financial Officer", "F", 9.53, -3060, 29162.0, "Common Stock"]]}

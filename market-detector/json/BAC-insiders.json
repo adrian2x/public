@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BAC", "2025-11-30 00:00:00.000000", "OKPARA JOHNBULL", "Chief Accounting Officer", "F", 53.65, -13674, 733610.0, "Common Stock"]]}

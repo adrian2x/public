@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FENC", "2025-12-05 00:00:00.000000", "RAYKOV ROSTY", "Director", "S", 7.54, -10000, 75400.0, "Common shares"]]}

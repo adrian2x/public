@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TTRX", "2025-12-12 00:00:00.000000", "CHAUDHARY ZURAIZ", null, "P", 3.5, 2500, 8750.0, "Common Stock"]]}

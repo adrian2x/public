@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BOOT", "2025-12-01 00:00:00.000000", "BURT GENE EDDIE", "Director", "S", 191.41, -1200, 229692.0, "Common Stock"]]}

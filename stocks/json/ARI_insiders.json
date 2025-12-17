@@ -1,1 +1,0 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ARI", "2025-09-15 00:00:00.000000", "ROTHSTEIN STUART", "President  CEO", "S", 10.78, -52073, 561243.0, "Common Stock"]]}

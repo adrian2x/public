@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AMPH", "2025-12-12 00:00:00.000000", "PETERSEN FLOYD F", "Director", "S", 25.92, -2426, 62889.0, "Common Stock"]]}

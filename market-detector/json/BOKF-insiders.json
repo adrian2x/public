@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BOKF", "2025-12-01 00:00:00.000000", "BANGERT STEVEN", "Director", "S", 114.89, -1000, 114888.0, "Common Stock"]]}

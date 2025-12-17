@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["USCB", "2025-12-11 00:00:00.000000", "WYCOFF W KIRK", "Director", "S", 18.68, -39000, 728520.0, "Class A Voting Common Stock"]]}

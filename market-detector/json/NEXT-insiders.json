@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NEXT", "2025-12-12 00:00:00.000000", "HANWHA AEROSPACE CO LTD", "10% Owner", "P", 5.54, 800000, 4431200.0, "Common Stock"]]}

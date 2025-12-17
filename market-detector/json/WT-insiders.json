@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["WT", "2025-12-02 00:00:00.000000", "YATES DAVID M", "Chief Information Officer", "S", 11.13, -6820, 75872.0, "Common Stock"]]}

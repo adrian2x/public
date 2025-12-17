@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["POOL", "2025-12-02 00:00:00.000000", "ARVAN PETER D", "PresidentCEO", "S", 245.82, -5000, 1227842.0, "Common Stock"]]}

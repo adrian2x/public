@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PBFS", "2025-12-12 00:00:00.000000", "TOMCZAK JESSE", "EVP and CBO", "S", 14.69, -5395, 79243.0, "Common Stock"]]}

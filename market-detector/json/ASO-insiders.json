@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ASO", "2025-12-15 00:00:00.000000", "MARLEY BRIAN T", "Director", "S", 55.01, -3500, 192535.0, "Common Stock"]]}

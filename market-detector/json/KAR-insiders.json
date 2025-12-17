@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["KAR", "2025-12-05 00:00:00.000000", "KELLY PETER J", "Chief Executive Officer", "F", 26.14, -3413, 89216.0, "Common Stock"]]}

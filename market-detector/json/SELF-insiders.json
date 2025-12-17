@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SELF", "2025-12-05 00:00:00.000000", "WINMILL MARK CAMPBELL", "President and CEO", "P", 5.07, 4400, 22364.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BFLY", "2025-12-12 00:00:00.000000", "ROTHBERG JONATHAN M", "Director", "S", 3.08, -193293, 595342.0, "Class A Common Stock"]]}

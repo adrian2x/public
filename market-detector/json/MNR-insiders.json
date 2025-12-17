@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MNR", "2025-12-09 00:00:00.000000", "MCMULLEN WILLIAM WALLACE", "Director", "P", 12.32, 17500, 215600.0, "Common Units"]]}

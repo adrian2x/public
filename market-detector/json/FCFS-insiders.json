@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FCFS", "2025-12-15 00:00:00.000000", "HAMBLETON HOWARD F", "AFF President", "S", 163.74, -4000, 654960.0, "Common Stock"]]}

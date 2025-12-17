@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["LFT", "2025-12-01 00:00:00.000000", "BRIGGS JAMES A", "Chief Financial Officer", "P", 1.6, 10000, 16050.0, "common stock"]]}

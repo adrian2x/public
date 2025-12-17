@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ODFL", "2025-12-01 00:00:00.000000", "GANTT GREG C", "Director", "F", 135.29, -635, 85909.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OMF", "2025-11-26 00:00:00.000000", "HEDLUND MICHAEL A", "pao SVP and Group Controller", "S", 62.0, -652, 40424.0, "Common stock par value 0.01 per share"]]}

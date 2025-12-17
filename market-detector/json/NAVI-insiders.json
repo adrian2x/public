@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NAVI", "2025-11-28 00:00:00.000000", "STANDISH TROY", "EVP  Chief Operating Officer", "F", 12.4, -769, 9536.0, "Common Stock"]]}

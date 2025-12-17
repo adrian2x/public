@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MATV", "2025-12-01 00:00:00.000000", "BORG DEBORAH", "Director", "A", 12.48, 6010, 75005.0, "Common Stock"]]}

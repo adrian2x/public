@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PLTR", "2025-12-01 00:00:00.000000", "MOORE ALEXANDER D", "Director", "S", 166.27, -20000, 3343836.0, "Class A Common Stock"]]}

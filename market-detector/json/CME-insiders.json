@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CME", "2025-12-11 00:00:00.000000", "DUFFY TERRENCE A", "Chairman and CEO", "S", 269.58, -25000, 6738816.0, "Common Stock Class A"]]}

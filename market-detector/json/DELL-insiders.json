@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["DELL", "2025-12-09 00:00:00.000000", "DURBAN EGON", "Director", "S", 138.12, -71000, 9806520.0, "Class C Common Stock"]]}

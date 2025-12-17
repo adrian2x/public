@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BOOM", "2025-12-03 00:00:00.000000", "SCHLADEN JAMES", "President of Arcadia", "S", 6.0, -17718, 106308.0, "Common Stock"]]}

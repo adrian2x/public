@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["KVHI", "2025-12-09 00:00:00.000000", "DECKOFF STEPHEN H", "Director", "P", 6.02, 60201, 362169.0, "Common Stock"]]}

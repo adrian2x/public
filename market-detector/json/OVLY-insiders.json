@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OVLY", "2025-12-12 00:00:00.000000", "BARTON DON", "Director", "S", 30.29, -375, 11360.0, "Common Stock"]]}

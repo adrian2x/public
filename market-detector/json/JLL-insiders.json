@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["JLL", "2025-12-11 00:00:00.000000", "ULBRICH CHRISTIAN", "CEO  President", "S", 332.18, -96, 31889.0, "Common Stock"]]}

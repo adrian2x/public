@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SFIX", "2025-12-05 00:00:00.000000", "LAKE KATRINA", "Director", "S", 5.19, -303450, 1574299.0, "Class A Common Stock"]]}

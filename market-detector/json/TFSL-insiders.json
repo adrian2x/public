@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TFSL", "2025-12-15 00:00:00.000000", "ASHER ANTHONY J", "Director", "P", 13.89, 1439, 19988.0, "Common Stock"]]}

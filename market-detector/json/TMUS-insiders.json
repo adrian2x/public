@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TMUS", "2025-12-11 00:00:00.000000", "NELSON MARK WOLFE", "Chief Legal Officer  GC", "A", 195.69, 68, 13366.0, "Common Stock"]]}

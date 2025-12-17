@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SYNA", "2025-12-12 00:00:00.000000", "GUPTA VIKRAM", null, "S", 80.07, -694, 55569.0, "Common Stock"]]}

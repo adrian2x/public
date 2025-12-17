@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HRL", "2025-12-11 00:00:00.000000", "MURANO ELSA A", "Director", "S", 24.0, -13400, 321600.0, "Common Stock"]]}

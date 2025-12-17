@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["XOM", "2025-12-15 00:00:00.000000", "TALLEY DARRIN L", "VP - Corp Strategic Planning", "S", 118.75, -3000, 356250.0, "Common Stock"]]}

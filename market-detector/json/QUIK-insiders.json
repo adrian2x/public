@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["QUIK", "2025-12-08 00:00:00.000000", "NADER ELIAS", "CFO SVP FINANCE", "S", 6.3, -5687, 35828.0, "Common Stock"]]}

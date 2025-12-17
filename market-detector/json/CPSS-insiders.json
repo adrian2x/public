@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CPSS", "2025-12-04 00:00:00.000000", "ROBERTS WILLIAM B", "Director", "S", 8.69, -100000, 869000.0, "Common Stock no par value"]]}

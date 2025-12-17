@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OSPN", "2025-12-12 00:00:00.000000", "MARTELL JORGE GARCIA", "Chief Financial Officer", "S", 12.97, -10000, 129670.0, "Common Stock"]]}

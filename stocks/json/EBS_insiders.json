@@ -1,1 +1,0 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EBS", "2025-11-11 00:00:00.000000", "HARTZEL WILLIAM", "SVP Bioservices", "F", 10.88, -610, 6637.0, "Common Stock"]]}

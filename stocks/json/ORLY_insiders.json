@@ -1,1 +1,0 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ORLY", "2025-11-24 00:00:00.000000", "PERLMAN DANA", "Director", "G", 99.0, -1000, 99000.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ADBE", "2025-12-15 00:00:00.000000", "FORUSZ JILLIAN", "SVP  CAO", "F", 351.15, -228, 80062.0, "Common Stock"]]}

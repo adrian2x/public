@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EGHT", "2025-12-01 00:00:00.000000", "DENNY LAURENCE", "Chief Legal Officer", "S", 1.95, -5000, 9760.0, "Common Stock"]]}

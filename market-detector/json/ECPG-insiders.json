@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ECPG", "2025-12-10 00:00:00.000000", "BELL RYAN B", "President MCM", "S", 55.0, -2500, 137500.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["RRAC", "2025-11-21 00:00:00.000000", "DUMAC INC", "10% Owner", "S", 12.15, -1000000, 12152000.0, "Class A Ordinary Shares"]]}

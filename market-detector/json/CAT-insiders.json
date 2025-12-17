@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CAT", "2025-12-01 00:00:00.000000", "BONFIELD ANDREW R J", "Chief Financial Officer", "S", 571.47, -10000, 5714447.0, "Common Stock"]]}

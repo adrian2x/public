@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CAG", "2025-12-01 00:00:00.000000", "MARSHALL RUTH ANN", "Director", "A", 17.67, 1768, 31250.0, "Common Stock"]]}

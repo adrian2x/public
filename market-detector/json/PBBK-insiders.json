@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PBBK", "2025-12-12 00:00:00.000000", "PINNO JOHN V III", "Director", "M", 12.28, 4500, 55260.0, "Common Stock"]]}

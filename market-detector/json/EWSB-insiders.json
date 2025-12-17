@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EWSB", "2025-05-05 00:00:00.000000", "SCHMALZ CHARLES D", "President  CEO", "P", 10.65, 2100, 22365.0, "Common Stock"]]}

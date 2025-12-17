@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ISBA", "2025-12-09 00:00:00.000000", "EVANS JAE A", "Director", "I", 48.61, -3000, 145830.0, "common"]]}

@@ -1,1 +1,0 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ECG", "2025-06-30 00:00:00.000000", "ROSENTHAL DALE", "Director", "A", 60.71, 216, 13113.0, "Common Stock"]]}

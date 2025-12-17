@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BDX", "2025-12-01 00:00:00.000000", "FELD MICHAEL", "EVP CRO  Pres. Life Sciences", "S", 193.36, -75, 14502.0, "Common Stock"]]}

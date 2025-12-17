@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TSSI", "2025-12-11 00:00:00.000000", "WOODWARD PETER H", "Director", "S", 8.3, -21700, 180110.0, "Common Stock"]]}

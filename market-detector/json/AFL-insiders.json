@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AFL", "2025-12-12 00:00:00.000000", "BEAVER STEVEN KENT", "EVP CFO Aflac Japan", "S", 109.53, -5492, 601522.0, "Common Stock"]]}

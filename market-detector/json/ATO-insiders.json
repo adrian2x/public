@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ATO", "2025-12-10 00:00:00.000000", "ROBBINS J MATT", "SR VP HUMAN RESOURCES", "G", 166.8, -1500, 250200.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ALUR", "2025-12-04 00:00:00.000000", "DAVIN MICHAEL R", "Director", "S", 1.58, -1606, 2541.0, "Common Stock"]]}

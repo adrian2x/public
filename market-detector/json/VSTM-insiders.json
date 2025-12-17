@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["VSTM", "2025-12-11 00:00:00.000000", "PATERSON DAN", "President and CEO", "S", 10.0, -2000, 20000.0, "Common Stock"]]}

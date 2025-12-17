@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["IPSC", "2025-12-12 00:00:00.000000", "PFEIFFENBERGER BRENT", "President and CEO", "P", 0.58, 52000, 30368.0, "Common Stock"]]}

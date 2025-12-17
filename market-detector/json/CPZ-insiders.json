@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CPZ", "2025-12-15 00:00:00.000000", "CALAMOS JOHN P SR", "President and Chairman", "S", 14.6, -20000, 292023.0, "Common Stock"]]}

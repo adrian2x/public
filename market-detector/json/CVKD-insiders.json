@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CVKD", "2025-12-02 00:00:00.000000", "GOLDEN LEE SCOTT", "Director", "A", 8.27, 5000, 41350.0, "Stock Options"]]}

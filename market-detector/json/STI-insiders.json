@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["STI", "2025-12-12 00:00:00.000000", "GLOBAL GRAPHENE GROUP INC", "10% Owner", "S", 7.87, -750, 5902.0, "Common Stock"]]}

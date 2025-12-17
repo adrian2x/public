@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SCCO", "2025-12-03 00:00:00.000000", "PALOMINO BONILLA LUIS MIGUEL", "Director", "S", 139.0, -400, 55600.0, "Common Stock"]]}

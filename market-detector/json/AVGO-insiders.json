@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AVGO", "2025-12-08 00:00:00.000000", "SAMUELI HENRY", "Director", "S", 402.58, -320316, 128297554.0, "Common Stock 0.001 par value"]]}

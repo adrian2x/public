@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GRND", "2025-12-05 00:00:00.000000", "ZAGE GEORGE RAYMOND III", "Director", "P", 13.51, 50000, 675500.0, "Common Stock"]]}

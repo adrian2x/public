@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FHB", "2025-12-04 00:00:00.000000", "ARIZUMI ALAN", "VICE CHAIR", "S", 25.35, -43026, 1090806.0, "Common Stock"]]}

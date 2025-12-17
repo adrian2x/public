@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PANW", "2025-12-09 00:00:00.000000", "GOETZ JAMES J", "Director", "S", 195.62, -12500, 2438355.0, "Common Stock"]]}

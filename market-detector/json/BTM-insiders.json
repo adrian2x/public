@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BTM", "2025-12-01 00:00:00.000000", "BUCHANAN CHRISTOPHER SCOTT", "President", "S", 1.42, -7000, 9940.0, "Class A Common Stock"]]}

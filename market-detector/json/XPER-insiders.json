@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["XPER", "2025-12-12 00:00:00.000000", "MARQUEZ REBECCA", "CLO and Secretary", "F", 6.16, -14943, 92049.0, "Common Stock"]]}

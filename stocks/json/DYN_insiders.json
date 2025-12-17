@@ -1,1 +1,0 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["DYN", "2025-10-01 00:00:00.000000", "POSNER BRIAN S", "Director", "A", 12.5, 70000, 875000.0, "Stock option right to buy"]]}

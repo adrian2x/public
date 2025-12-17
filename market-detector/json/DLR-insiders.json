@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["DLR", "2025-12-01 00:00:00.000000", "PREUSSE MARY HOGAN", "Director", "S", 157.42, -4166, 655812.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AEBI", "2025-12-05 00:00:00.000000", "SCHAUB PATRICK FRANCOIS", "Director", "P", 12.75, 7500, 95655.0, "Common Stock"]]}

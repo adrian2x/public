@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CARS", "2025-12-02 00:00:00.000000", "CRAWFORD MATTHEW B", "Chief Product Innovation Off.", "S", 12.03, -27358, 329117.0, "Common Stock"]]}

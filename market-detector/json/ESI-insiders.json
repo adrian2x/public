@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ESI", "2025-12-12 00:00:00.000000", "LIEBOWITZ MATTHEW", "President Specialties", "S", 26.6, -37000, 984200.0, "Common Stock par value 0.01 per share"]]}

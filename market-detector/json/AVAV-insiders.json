@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AVAV", "2025-12-10 00:00:00.000000", "MCDONNELL KEVIN PATRICK", "CFO", "S", 249.37, -511, 127428.0, "Common Stock"]]}

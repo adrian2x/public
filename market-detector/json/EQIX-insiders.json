@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EQIX", "2025-12-10 00:00:00.000000", "ABDEL RAOUF", "EVP Global Operations", "S", 740.0, -403, 298220.0, "Common Stock"]]}

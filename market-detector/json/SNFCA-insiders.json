@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SNFCA", "2025-12-12 00:00:00.000000", "STEPHENS JEFFREY RUSSELL", "Gen. Counsel  Corp. Sec", "G", 9.01, -10000, 90100.0, "Class A Common Stock"]]}

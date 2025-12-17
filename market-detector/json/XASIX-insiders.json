@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["XASIX", "2025-11-03 00:00:00.000000", "OCONNOR JOSEPH A", "", "P", 10.0, 25423, 254234.0, "Common Shares"]]}

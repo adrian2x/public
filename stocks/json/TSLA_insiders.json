@@ -1,1 +1,0 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TSLA", "2025-09-15 00:00:00.000000", "MURDOCH JAMES R", "Director", "S", 422.68, -60000, 25360800.0, "Common Stock"]]}

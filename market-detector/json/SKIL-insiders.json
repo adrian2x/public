@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SKIL", "2025-12-01 00:00:00.000000", "SEMEL SCOTT", "Interim CLO  General Counsel", "F", 8.15, -1386, 11296.0, "Class A Common Stock"]]}

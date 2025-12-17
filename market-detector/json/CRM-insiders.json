@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CRM", "2025-12-05 00:00:00.000000", "MORFIT G MASON", "Director", "P", 260.58, 96000, 25015680.0, "Common Stock"]]}

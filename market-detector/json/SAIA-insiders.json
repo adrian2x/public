@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SAIA", "2025-12-08 00:00:00.000000", "EISNOR DIANN", "Director", "S", 336.73, -297, 100009.0, "Common Stock"]]}

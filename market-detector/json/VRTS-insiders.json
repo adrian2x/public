@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["VRTS", "2025-12-11 00:00:00.000000", "FLEMING SUSAN S", "Director", "S", 168.24, -2959, 497980.0, "Common Stock"]]}

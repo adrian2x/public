@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["XLO", "2025-11-26 00:00:00.000000", "GILEAD SCIENCES INC", "10% Owner", "X", 0.75, -13335000, 10001250.0, "Series B Warrants right to buy"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["WVVI", "2025-12-11 00:00:00.000000", "OSBORN MICHAEL JORDAN", "CEO", "P", 2.94, 2000, 5846.0, "Common Stock"]]}

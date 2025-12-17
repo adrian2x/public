@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["POWL", "2025-12-08 00:00:00.000000", "MCKERTCHER TERRY B", "Vice President Operations", "S", 340.81, -2100, 715341.0, "Common Stock"]]}

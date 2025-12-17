@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EXLS", "2025-12-15 00:00:00.000000", "OROGEN ECHO LLC", "Director", "D", 40.83, -1551970, 63373143.0, "Common Stock"]]}

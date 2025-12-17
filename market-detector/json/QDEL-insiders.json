@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["QDEL", "2025-12-10 00:00:00.000000", "RHOADS ANN D", "Director", "P", 28.27, 750, 21206.0, "Common Stock"]]}

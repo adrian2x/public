@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MKTX", "2025-12-12 00:00:00.000000", "PINTOFF SCOTT", "General Counsel and Secretary", "S", 177.85, -100, 17785.0, "Common Stock par value 0.003 per share"]]}

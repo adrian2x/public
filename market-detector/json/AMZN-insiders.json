@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AMZN", "2025-12-01 00:00:00.000000", "HERRINGTON DOUGLAS J", "CEO Worldwide Amazon Stores", "S", 233.22, -2500, 583050.0, "Common Stock par value .01 per share"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ANVS", "2025-12-08 00:00:00.000000", "HOFFMAN MICHAEL B", "Director", "P", 4.29, 45000, 193800.0, "Common Stock"]]}

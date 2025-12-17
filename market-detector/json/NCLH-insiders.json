@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NCLH", "2025-12-12 00:00:00.000000", "ASHBY FAYE L", "SVP  Chief Accounting Officer", "S", 21.0, -5250, 110250.0, "Common Stock"]]}

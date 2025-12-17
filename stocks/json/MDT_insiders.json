@@ -1,1 +1,0 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MDT", "2025-11-19 00:00:00.000000", "SMITH GREGORY L", "EVP Global Ops  Supply Chain", "S", 102.03, -30000, 3058452.0, "Ordinary Shares"]]}

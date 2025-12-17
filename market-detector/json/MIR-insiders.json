@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MIR", "2025-12-10 00:00:00.000000", "KINGSLEY LAWRENCE D", "Director", "S", 24.73, -350000, 8654800.0, "Class A Common Stock"]]}

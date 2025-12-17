@@ -1,1 +1,0 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CARS", "2025-10-01 00:00:00.000000", "JAIN SONIA", "Chief Financial Officer", "F", 12.33, -29226, 360357.0, "Common Stock"]]}

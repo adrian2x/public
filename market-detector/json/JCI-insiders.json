@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["JCI", "2025-12-10 00:00:00.000000", "DONOFRIO JOHN", "Exec VP  General Counsel", "S", 116.0, -21595, 2505020.0, "Ordinary Shares"]]}

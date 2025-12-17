@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["WTTR", "2025-12-05 00:00:00.000000", "SCHMITZ JOHN", "President  CEO", "S", 11.21, -70375, 788902.0, "Class A Common Stock"]]}

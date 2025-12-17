@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["RIOT", "2025-12-01 00:00:00.000000", "GIBBS JONATHAN", "CDCO", "F", 15.48, -60868, 942237.0, "Common Stock"]]}

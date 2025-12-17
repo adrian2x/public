@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MOD", "2025-12-02 00:00:00.000000", "BRINKER NEIL DAVID", "President and CEO", "S", 160.84, -31871, 5117337.0, "Common stock"]]}

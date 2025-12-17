@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CBL", "2025-12-02 00:00:00.000000", "CURRY JEFFERY V", "Chief Legal Officer  Sec.", "S", 33.33, -5000, 166650.0, "Common Stock"]]}

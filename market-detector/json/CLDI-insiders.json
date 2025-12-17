@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CLDI", "2025-12-12 00:00:00.000000", "CAMAISA ALLAN", "Director", "S", 1.46, -850, 1237.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MCY", "2025-12-10 00:00:00.000000", "BRAUNEGG GEORGE GWYER", "Director", "P", 90.42, 552, 49912.0, "Common Stock"]]}

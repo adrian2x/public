@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CBT", "2025-12-03 00:00:00.000000", "MASTERSON WILLIAM F III", "Senior Vice President", "A", 64.54, 12767, 823982.0, "Employee Stock Option Right to Buy"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PAYX", "2025-12-01 00:00:00.000000", "GOLISANO B THOMAS", "10% Owner", "G", 111.41, -923, 102831.0, "Common Stock"]]}

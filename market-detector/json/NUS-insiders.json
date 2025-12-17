@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NUS", "2025-12-10 00:00:00.000000", "WOODBURY EDWINA D", "Director", "A", 10.35, 10, 104.0, "Class A Common Stock"]]}

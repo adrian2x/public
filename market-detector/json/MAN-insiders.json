@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MAN", "2025-12-12 00:00:00.000000", "PENICAUD MURIEL FRANCOISE", "Director", "F", 28.54, -38, 1085.0, "Common Stock"]]}

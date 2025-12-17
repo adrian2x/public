@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ONTO", "2025-12-02 00:00:00.000000", "DOLEV IDO", "EVP Prod Solutions Grp", "F", 154.01, -3183, 490214.0, "Common Stock"]]}

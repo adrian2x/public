@@ -1,1 +1,0 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FIX", "2025-11-24 00:00:00.000000", "LANE BRIAN E", "PRESIDENTCHIEF EXECUTIVE OFF.", "S", 947.98, -7158, 6785648.0, "Common Stock"]]}

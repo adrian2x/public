@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BXP", "2025-12-01 00:00:00.000000", "RITCHEY RAYMOND A", "Senior EVP", "S", 72.18, -36314, 2621145.0, "Common Stock par value 0.01"]]}

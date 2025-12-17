@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SYRE", "2025-12-01 00:00:00.000000", "TURTLE CAMERON", "Chief Executive Officer", "S", 29.28, -15000, 435355.0, "Common Stock"]]}

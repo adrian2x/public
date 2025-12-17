@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BBIO", "2025-12-15 00:00:00.000000", "KUMAR NEIL", "Chief Executive Officer", "S", 74.92, -30011, 2239911.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AEHR", "2025-12-03 00:00:00.000000", "WIMMERS DIDIER", "Executive VP of RD", "F", 24.76, -371, 9186.0, "Common Stock"]]}

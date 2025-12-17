@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["LAUR", "2025-12-12 00:00:00.000000", "SERCKHANSSEN EILIF", "PRESIDENT  CEO", "F", 32.68, -52510, 1716027.0, "Common Stock"]]}

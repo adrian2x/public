@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FSLY", "2025-12-08 00:00:00.000000", "BERGMAN ARTUR", "Chief Technology Officer", "S", 10.66, -40000, 426400.0, "Class A Common Stock"]]}

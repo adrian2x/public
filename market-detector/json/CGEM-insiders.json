@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CGEM", "2025-12-15 00:00:00.000000", "MICHAELSON JENNIFER", "Chief Scientific Officer", "S", 11.9, -995, 11840.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["KFS", "2025-12-11 00:00:00.000000", "STILWELL JOSEPH", "Director", "S", 12.8, -67500, 864000.0, "Common Stock"]]}

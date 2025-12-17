@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SKYX", "2025-12-08 00:00:00.000000", "KOHEN RAN ROLAND", "Executive Chairman", "A", 2.42, 1500000, 3630000.0, "Stock Option right to buy"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ZEUS", "2025-12-09 00:00:00.000000", "SCOTT PETER JENNINGS", "Director", "P", 39.89, 5030, 200647.0, "Common Stock"]]}

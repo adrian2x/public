@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BLD", "2025-12-11 00:00:00.000000", "BUCK ROBERT M", "President and CEO", "S", 453.39, -5000, 2266950.0, "Common Stock"]]}

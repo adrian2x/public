@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CCC", "2025-12-15 00:00:00.000000", "WILLIAMS TERI", "Director", "S", 7.52, -68000, 511360.0, "Common Stock"]]}

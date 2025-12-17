@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["APGE", "2025-12-10 00:00:00.000000", "HENDERSON MICHAEL THOMAS", "Chief Executive Officer", "S", 75.75, -20000, 1507657.0, "Common Stock"]]}

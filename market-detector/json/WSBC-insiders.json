@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["WSBC", "2025-12-03 00:00:00.000000", "NELSON F ERIC JR", "Director", "S", 33.37, -752, 25094.0, "Common Stock"]]}

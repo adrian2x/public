@@ -1,1 +1,0 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MNR", "2025-11-25 00:00:00.000000", "WARD TOM L", null, "P", 11.45, 43660, 499907.0, "Common Units"]]}

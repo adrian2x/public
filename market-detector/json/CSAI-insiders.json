@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CSAI", "2025-12-10 00:00:00.000000", "BENTLEY SHELDON RICHARD", "10% Owner", "S", 1.09, -25000, 27250.0, "Class A Common Stock"]]}

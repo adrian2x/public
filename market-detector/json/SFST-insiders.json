@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SFST", "2025-12-10 00:00:00.000000", "ELLISON DAVID G", "Director", "S", 53.28, -1000, 53285.0, "Common Stock"]]}

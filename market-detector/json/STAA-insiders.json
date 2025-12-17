@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["STAA", "2025-12-11 00:00:00.000000", "SISITSKY NATHANIEL", "Chief Legal Officer", "F", 24.68, -2616, 64563.0, "Common Stock"]]}

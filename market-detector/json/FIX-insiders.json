@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FIX", "2025-12-04 00:00:00.000000", "HOWELL LAURA FINLEY", "SVP  GENERAL COUNSEL", "S", 996.16, -1000, 996163.0, "Common Stock"]]}

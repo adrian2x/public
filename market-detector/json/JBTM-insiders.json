@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["JBTM", "2025-12-10 00:00:00.000000", "GUDMUNDSSON OLAFUR S", "Director", "S", 150.09, -10000, 1500900.0, "Common Stock"]]}

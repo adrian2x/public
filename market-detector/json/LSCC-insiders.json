@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["LSCC", "2025-12-12 00:00:00.000000", "DESALE PRAVIN", "SVP RD", "S", 78.09, -839, 65518.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GXO", "2025-11-28 00:00:00.000000", "COOPER TODD C", "Director", "P", 50.59, 6000, 303540.0, "Common Stock"]]}

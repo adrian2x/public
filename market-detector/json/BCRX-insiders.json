@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BCRX", "2025-12-15 00:00:00.000000", "BARNES ALANE P", "Chief Legal Officer", "S", 7.65, -21210, 162256.0, "Common Stock"]]}

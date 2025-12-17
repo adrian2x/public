@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SCIIU", "2025-11-28 00:00:00.000000", "SC CAPITAL II SPONSOR LLC", "10% Owner", "P", 10.0, 255000, 2550000.0, "Class A ordinary shares"]]}

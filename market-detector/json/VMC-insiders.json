@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["VMC", "2025-12-15 00:00:00.000000", "BAKER THOMPSON S II", "President", "F", 296.68, -4218, 1251396.0, "Common Stock"]]}

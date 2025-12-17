@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TRIP", "2025-12-10 00:00:00.000000", "DALTON KRISTEN ANN", "President Brand Tripadvisor", "S", 14.98, -18000, 269640.0, "Common Stock"]]}

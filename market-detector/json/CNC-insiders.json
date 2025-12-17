@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CNC", "2025-12-04 00:00:00.000000", "BURDICK KENNETH A", "Director", "S", 39.0, -32796, 1279044.0, "Common Stock"]]}

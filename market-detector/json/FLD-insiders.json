@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FLD", "2025-12-01 00:00:00.000000", "YOUNG BRACEBRIDGE H JR", "Director", "P", 3.12, 8100, 25304.0, "Common Stock"]]}

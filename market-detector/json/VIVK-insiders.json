@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["VIVK", "2025-11-26 00:00:00.000000", "HAWLEY KIMBERLY ANN", "CFO", "A", 0.13, 25000, 3200.0, "Common Stock Par Value 0.001"]]}

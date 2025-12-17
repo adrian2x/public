@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AEP", "2025-12-12 00:00:00.000000", "FOWKE BENJAMIN G S III", "Director", "S", 115.07, -5000, 575350.0, "Common Stock"]]}

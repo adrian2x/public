@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PAYS", "2025-12-12 00:00:00.000000", "STROBO ROBERT", "Chief Legal Officer", "S", 5.47, -20000, 109400.0, "Common Stock"]]}

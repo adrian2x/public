@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ARLO", "2025-12-01 00:00:00.000000", "MCRAE MATTHEW BLAKE", "CEO", "S", 14.28, -257242, 3672901.0, "Common Stock"]]}

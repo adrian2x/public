@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GPOR", "2025-12-02 00:00:00.000000", "SILVER POINT CAPITAL LP", "Director", "S", 219.56, -45546, 10000080.0, "Common Stock"]]}

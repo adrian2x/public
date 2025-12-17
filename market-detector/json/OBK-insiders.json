@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OBK", "2025-12-13 00:00:00.000000", "MILLS DRAKE", "Chairman President and CEO", "F", 39.06, -10324, 403255.0, "Common Stock"]]}

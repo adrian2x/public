@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FHI", "2025-12-12 00:00:00.000000", "DUDIAK DOLORES D", "Vice President", "S", 52.24, -5000, 261190.0, "Class B Common Stock"]]}

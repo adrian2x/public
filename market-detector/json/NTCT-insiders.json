@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NTCT", "2025-12-12 00:00:00.000000", "PERRETTA CHRISTOPHER", "Director", "S", 28.01, -10000, 280100.0, "Common Stock"]]}

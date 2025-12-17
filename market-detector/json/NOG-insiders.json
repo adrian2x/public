@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NOG", "2025-12-11 00:00:00.000000", "EASLEY ROY ERNEST", "Director", "P", 23.38, 10000, 233840.0, "Common Stock"]]}

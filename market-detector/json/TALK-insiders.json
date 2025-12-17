@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TALK", "2025-12-11 00:00:00.000000", "MARGOLIN GIL", "Chief Technology Officer", "S", 3.26, -14542, 47407.0, "Common Stock"]]}

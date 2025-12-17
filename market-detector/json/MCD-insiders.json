@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MCD", "2025-12-12 00:00:00.000000", "FLATLEY EDITH MORGAN", "EVP - Global CMO", "S", 315.0, -658, 207270.0, "Common Stock"]]}

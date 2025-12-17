@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SPFX", "2025-12-10 00:00:00.000000", "KOPPELMANN WILLIAM", "CEO", "P", 1.91, 1000, 1908.0, "Common Stock"]]}

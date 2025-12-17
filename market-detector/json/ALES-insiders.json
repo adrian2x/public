@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ALES", "2025-12-11 00:00:00.000000", "WHITE PATRICK JOSEPH", "Director", "D", 0.66, -6000, 3960.0, "Common Stock"]]}

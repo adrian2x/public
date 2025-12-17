@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BIIB", "2025-12-01 00:00:00.000000", "VIEHBACHER CHRISTOPHER", "President and CEO", "F", 177.78, -3404, 605163.0, "Common Stock"]]}

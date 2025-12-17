@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["WCN", "2025-12-10 00:00:00.000000", "NIELSEN III ROBERT", "SR VP Operations", "S", 167.59, -2000, 335180.0, "Common Shares"]]}

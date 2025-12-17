@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["XENE", "2025-12-08 00:00:00.000000", "MORTIMER IAN", "PRESIDENT  CEO", "S", 45.95, -10830, 495207.0, "Common Shares"]]}

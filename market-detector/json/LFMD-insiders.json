@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["LFMD", "2025-12-09 00:00:00.000000", "FRIEDEMAN JESSICA", "Chief Marketing Officer", "S", 3.61, -15000, 54165.0, "Common Stock"]]}

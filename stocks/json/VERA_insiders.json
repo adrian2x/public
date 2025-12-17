@@ -1,1 +1,0 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["VERA", "2025-11-25 00:00:00.000000", "MEYERS JAMES R", "Director", "A", 29.43, 25000, 735750.0, "Stock Option right to buy"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PRTS", "2025-12-08 00:00:00.000000", "HUFFAKER MICHAEL", "Chief Operating Officer", "F", 0.44, -23547, 10361.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HAIN", "2025-12-15 00:00:00.000000", "LEWIS ALISON", "President and CEO", "F", 1.17, -124281, 145409.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FWDI", "2025-12-15 00:00:00.000000", "PRUITT MICHAEL D", "Chief Executive Officer", "P", 7.44, 1000, 7440.0, "Common Stock"]]}

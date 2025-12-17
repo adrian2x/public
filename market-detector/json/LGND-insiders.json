@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["LGND", "2025-12-12 00:00:00.000000", "ESPINOZA OCTAVIO", "Chief Financial Officer", "S", 188.31, -1804, 339711.0, "Common Stock"]]}

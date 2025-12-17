@@ -1,1 +1,0 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AX", "2025-11-15 00:00:00.000000", "GILL ANN", "", "M", 79.12, 1000, 79120.0, "Common Stock"], ["AX", "2025-11-15 00:00:00.000000", "GILL ANN", "", "D", 79.12, -538, 42567.0, "Common Stock"]]}

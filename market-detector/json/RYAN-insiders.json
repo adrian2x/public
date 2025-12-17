@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["RYAN", "2025-12-12 00:00:00.000000", "TURNER TIMOTHY WILLIAM", "Chief Executive Officer", "S", 53.61, -129570, 6946248.0, "Class A Common Stock"]]}

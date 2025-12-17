@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["L", "2025-12-11 00:00:00.000000", "SCOTT RICHARD WALDO", "SVP  Chief Investment Officer", "S", 104.74, -1000, 104740.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["IBCP", "2025-12-12 00:00:00.000000", "ERVIN PATRICK J", "Executive Vice President", "S", 34.64, -3000, 103923.0, "Common Stock"]]}

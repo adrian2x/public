@@ -1,1 +1,0 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CORZ", "2025-11-12 00:00:00.000000", "ROZOV YADIN", "Director", "P", 6.81, 30000, 204300.0, "Tranche 1 Warrants"]]}

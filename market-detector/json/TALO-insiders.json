@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TALO", "2025-12-01 00:00:00.000000", "SPATH JOHN B", "Executive Vice President and Head of Operations", "F", 11.37, -126, 1433.0, "Common Stock"]]}

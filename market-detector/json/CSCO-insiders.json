@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CSCO", "2025-12-12 00:00:00.000000", "SUBAIYA THIMAYA K", "EVP Operations", "S", 79.46, -1745, 138658.0, "Common Stock"]]}

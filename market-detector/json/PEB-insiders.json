@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PEB", "2025-12-15 00:00:00.000000", "BORTZ JON E", "Chairman and CEO", "S", 11.26, -50000, 563150.0, "Common Shares"]]}

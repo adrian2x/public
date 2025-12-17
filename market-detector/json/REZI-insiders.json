@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["REZI", "2025-12-14 00:00:00.000000", "AARNES ROBERT B", "President ADI", "F", 35.92, -19675, 706824.0, "Common Stock"]]}

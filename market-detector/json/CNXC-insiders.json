@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CNXC", "2025-12-01 00:00:00.000000", "CALDWELL CHRISTOPHER A", "President and CEO", "F", 36.52, -7075, 258379.0, "Common Stock"]]}

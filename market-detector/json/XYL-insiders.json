@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["XYL", "2025-12-15 00:00:00.000000", "AULICK RODNEY", "EVP  President WSS", "F", 138.25, -1840, 254380.0, "Common Stock"]]}

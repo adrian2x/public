@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HSTM", "2025-12-10 00:00:00.000000", "CUNNINGHAM JEFF", "Chief Technology Officer", "S", 24.09, -2100, 50589.0, "Common Stock Holding"]]}

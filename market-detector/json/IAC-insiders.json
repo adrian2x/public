@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["IAC", "2025-11-30 00:00:00.000000", "HANDLER KENDALL", "EVP  CLO", "F", 35.07, -37273, 1307165.0, "Common Stock par value 0.0001"]]}

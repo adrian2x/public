@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BMEA", "2025-12-11 00:00:00.000000", "ERDTMANN RAINER M", null, "P", 1.43, 30000, 42990.0, "Common Stock"]]}

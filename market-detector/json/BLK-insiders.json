@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["BLK", "2025-12-01 00:00:00.000000", "SMALL MARTIN", "CFO  Senior Managing Director", "S", 1043.38, -1258, 1312572.0, "Common Stock"]]}

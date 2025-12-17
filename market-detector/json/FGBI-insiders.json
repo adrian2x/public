@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FGBI", "2025-12-11 00:00:00.000000", "WALKER ROBERT W", "Director", "P", 4.53, 5745, 26025.0, "COMMON STOCK"]]}

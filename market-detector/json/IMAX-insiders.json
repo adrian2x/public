@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["IMAX", "2025-12-15 00:00:00.000000", "WELTON MARK", "President IMAX Global Theatres", "S", 39.28, -25000, 982000.0, "common shares"]]}

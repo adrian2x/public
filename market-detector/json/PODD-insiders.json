@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["PODD", "2025-12-15 00:00:00.000000", "FREDERICK WAYNE AI", "Director", "S", 293.09, -1851, 542510.0, "Common Stock"]]}

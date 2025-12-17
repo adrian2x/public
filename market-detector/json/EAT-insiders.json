@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EAT", "2025-12-12 00:00:00.000000", "COMINGS DOUGLAS N", "SVP  COO Chilis", "F", 146.41, -74, 10834.0, "Common Stock"]]}

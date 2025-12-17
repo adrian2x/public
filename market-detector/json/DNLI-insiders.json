@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["DNLI", "2025-12-11 00:00:00.000000", "BAKER BROS ADVISORS LP", "Director", "P", 0.01, 2285714, 22857.0, "0.01 Prefunded Warrants"]]}

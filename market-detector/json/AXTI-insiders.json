@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AXTI", "2025-12-09 00:00:00.000000", "CHANG DAVID C", "Director", "S", 14.84, -25000, 371025.0, "Common Stock"]]}

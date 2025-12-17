@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CLYM", "2025-12-12 00:00:00.000000", "RA CAPITAL MANAGEMENT LP", "Director", "P", 2.86, 101462, 290181.0, "Common Stock"]]}

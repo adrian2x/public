@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OSW", "2025-12-11 00:00:00.000000", "MCLALLEN WALTER FIELD", "Director", "S", 20.22, -5000, 101060.0, "Common Shares"]]}

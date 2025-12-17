@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["JILL", "2025-12-13 00:00:00.000000", "WEBB MARK W", "EVP CFO  COO", "F", 14.04, -13716, 192575.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["VLTO", "2025-12-01 00:00:00.000000", "BYSTROM MATTIAS", "SVP PQI", "S", 101.73, -1000, 101730.0, "Common Stock"]]}

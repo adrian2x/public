@@ -1,1 +1,0 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MS", "2025-10-31 00:00:00.000000", "PICK EDWARD", "Chairman and CEO", "S", 164.34, -100000, 16434400.0, "Common Stock"]]}

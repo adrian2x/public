@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AXON", "2025-12-11 00:00:00.000000", "BAGLEY BRITTANY", "COO  CFO", "S", 580.0, -2000, 1160000.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OXM", "2025-12-12 00:00:00.000000", "CHUBB THOMAS CALDECOT III", "CEO and President", "P", 35.12, 5000, 175585.0, "Common Stock"]]}

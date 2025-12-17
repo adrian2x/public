@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["DDD", "2025-12-12 00:00:00.000000", "ZUIKER JOSEPH R", "EVP Engineering  Operations", "F", 1.9, -5212, 9903.0, "Common Stock"]]}

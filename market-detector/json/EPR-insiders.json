@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EPR", "2025-12-15 00:00:00.000000", "PETERSON MARK ALAN", "EVP  Chief Financial Officer", "G", 50.15, -2081, 104362.0, "Common Shares of Beneficial Interest"]]}

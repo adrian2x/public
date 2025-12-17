@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HSIC", "2025-12-10 00:00:00.000000", "ALBERTINI ANDREA", "CEO Global Dist.  Tech.", "F", 75.88, -2032, 154188.0, "Common Stock par value 0.01 per share"]]}

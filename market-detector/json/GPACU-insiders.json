@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GPACU", "2025-12-02 00:00:00.000000", "GENERAL PURPOSE ACQUISITION CORP SERVICES LLC", "10% Owner", "A", 10.0, 430000, 4300000.0, "Class A Ordinary Shares par value 0.0001"]]}

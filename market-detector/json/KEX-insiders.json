@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["KEX", "2025-12-01 00:00:00.000000", "NIEMIETZ KURT A", "VP IR  Treasurer", "S", 114.12, -1500, 171180.0, "Common Stock par value 0.10 per share"]]}

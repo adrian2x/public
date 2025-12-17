@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SPH", "2025-12-02 00:00:00.000000", "CHANIN MATTHEW J", "Director", "S", 19.31, -10000, 193100.0, "Common Units representing limited partnership interests"]]}

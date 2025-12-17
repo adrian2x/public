@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AMD", "2025-12-11 00:00:00.000000", "SU LISA T", "Chair President  CEO", "S", 216.31, -125000, 26891906.0, "Common Stock"]]}

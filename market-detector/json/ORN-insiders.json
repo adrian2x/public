@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ORN", "2025-11-28 00:00:00.000000", "EARLE EDWARD CHIPMAN", "EVP  GENERAL COUNSEL", "F", 10.0, -5001, 50010.0, "Common Stock"]]}

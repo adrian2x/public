@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EBS", "2025-12-14 00:00:00.000000", "LOWRY SIMON C", "SVP RD CMO", "F", 11.41, -3543, 40426.0, "Common Stock"]]}

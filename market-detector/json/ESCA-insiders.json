@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ESCA", "2025-12-11 00:00:00.000000", "BAALMANN RICHARD FENTON JR", "Director", "S", 13.0, -5490, 71370.0, "Common Stock"]]}

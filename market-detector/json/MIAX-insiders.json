@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MIAX", "2025-12-12 00:00:00.000000", "STAHL MURRAY", "Director", "P", 41.0, 2439, 99999.0, "Common Stock"]]}

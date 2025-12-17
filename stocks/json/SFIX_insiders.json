@@ -1,1 +1,0 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SFIX", "2025-10-20 00:00:00.000000", "OCONNOR CASEY", "Chief Legal Officer", "S", 4.41, -50000, 220500.0, "Class A Common Stock"]]}

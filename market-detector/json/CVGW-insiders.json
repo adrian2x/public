@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CVGW", "2025-12-08 00:00:00.000000", "LINDEMAN BRUCE JOHN", "Chief Executive Officer", "A", 20.33, 100000, 2033000.0, "Stock Option right to buy"]]}

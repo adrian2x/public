@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TMC", "2025-12-02 00:00:00.000000", "OSULLIVAN ANTHONY", "Chief Development Officer", "S", 6.77, -50000, 338500.0, "Common Shares"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["TRU", "2025-12-10 00:00:00.000000", "SKINNER TODD C", "President International", "S", 81.07, -500, 40535.0, "Common Stock"]]}

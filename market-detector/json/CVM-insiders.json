@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CVM", "2025-12-04 00:00:00.000000", "KERSTEN GEERT R", "Chief Executive Officer", "P", 5.96, 8389, 49998.0, "Common Stock"]]}

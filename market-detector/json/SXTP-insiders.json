@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SXTP", "2025-12-15 00:00:00.000000", "DOW GEOFFREY S", "President and CEO", "P", 0.8, 9670, 7755.0, "Common Stock"]]}

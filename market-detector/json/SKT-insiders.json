@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SKT", "2025-12-01 00:00:00.000000", "BILERMAN MICHAEL J", null, "F", 33.58, -17839, 599034.0, "Common Stock"]]}

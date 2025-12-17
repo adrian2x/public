@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HVT", "2025-12-12 00:00:00.000000", "HAVERTY RAWSON JR", "Director", "S", 24.86, -7500, 186450.0, "Common Stock"]]}

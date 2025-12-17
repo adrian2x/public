@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CUBE", "2025-12-15 00:00:00.000000", "MARR CHRISTOPHER P", "CEO", "S", 36.55, -679, 24815.0, "Common"]]}

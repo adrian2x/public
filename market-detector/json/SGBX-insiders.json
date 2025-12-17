@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SGBX", "2025-10-10 00:00:00.000000", "MCLAREN MICHAEL DAVID", "Chief Executive Officer", "C", 3.24, 203000, 657720.0, "Convertible Promissory Note"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GMGI", "2025-12-01 00:00:00.000000", "GOODMAN ANTHONY BRIAN", "Chief Executive Officer", "S", 0.82, -50000, 41000.0, "Common Stock"]]}

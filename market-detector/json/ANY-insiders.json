@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ANY", "2025-12-09 00:00:00.000000", "KALBFLEISCH KURT L", "Chief Executive Officer", "S", 0.47, -90000, 41940.0, "Common Stock"]]}

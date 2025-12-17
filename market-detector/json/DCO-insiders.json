@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["DCO", "2025-12-10 00:00:00.000000", "REDONDO JERRY L", "S.V.P. Elec.  Struc. Systems", "S", 92.86, -2000, 185720.0, "Common Stock"]]}

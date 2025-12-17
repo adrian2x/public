@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AFCG", "2025-12-11 00:00:00.000000", "TANNENBAUM LEONARD M", "Director", "P", 3.05, 25000, 76250.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FANG", "2025-12-08 00:00:00.000000", "MELOY CHARLES ALVIN", "Director", "S", 160.13, -53, 8487.0, "Common Stock"]]}

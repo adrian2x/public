@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MDB", "2025-12-15 00:00:00.000000", "MERRIMAN DWIGHT A", "Director", "S", 418.73, -6000, 2514640.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ULCC", "2025-12-11 00:00:00.000000", "BIFFLE BARRY", "CEO", "S", 5.78, -82627, 477667.0, "Common Stock"]]}

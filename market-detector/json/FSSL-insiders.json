@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FSSL", "2025-12-10 00:00:00.000000", "GOLDSTEIN RICHARD I", "Director", "P", 13.62, 10000, 136200.0, "Common Stock"]]}

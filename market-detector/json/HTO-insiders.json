@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HTO", "2025-12-01 00:00:00.000000", "KELLY ANN P", "CFO and Treasurer", "F", 46.86, -581, 27226.0, "Common Stock"]]}

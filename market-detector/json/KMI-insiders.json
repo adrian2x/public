@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["KMI", "2025-12-05 00:00:00.000000", "SCHLOSSER JOHN W", "V.P. President Terminals", "S", 27.81, -6166, 171476.0, "Class P Common Stock"]]}

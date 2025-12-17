@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FSCO", "2025-12-01 00:00:00.000000", "FOUSS BARBARA J", "Director", "P", 6.06, 1620, 9811.0, "Common Stock"]]}

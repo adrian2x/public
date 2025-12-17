@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CUE", "2025-12-03 00:00:00.000000", "SANDERCOCK COLIN", "SVP GENERAL COUNSEL", "A", 0.7, 70000, 49000.0, "Stock Option right to buy"]]}

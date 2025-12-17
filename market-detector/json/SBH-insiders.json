@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SBH", "2025-12-11 00:00:00.000000", "MCINTOSH KIM", "GVP CONTROLLER  CAO", "S", 15.71, -5900, 92701.0, "Common Stock"]]}

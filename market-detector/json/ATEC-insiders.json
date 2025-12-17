@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["ATEC", "2025-12-11 00:00:00.000000", "DEMSKI DAVID M", "Director", "S", 21.2, -30000, 636000.0, "Common Stock"]]}

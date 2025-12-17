@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OGS", "2025-12-04 00:00:00.000000", "HUTCHINSON MICHAEL G", "Director", "S", 78.86, -3000, 236574.0, "Common stock par value 0.01"]]}

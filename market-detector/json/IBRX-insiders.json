@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["IBRX", "2025-12-12 00:00:00.000000", "WENDEL BRUCE", "Director", "A", 2.36, 146020, 344607.0, "Stock Option right to buy"]]}

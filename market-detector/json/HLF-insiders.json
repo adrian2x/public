@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HLF", "2025-12-01 00:00:00.000000", "LHELIAS SOPHIE", "Director", "P", 12.7, 800, 10160.0, "Common Stock"]]}

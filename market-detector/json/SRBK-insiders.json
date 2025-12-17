@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["SRBK", "2025-12-04 00:00:00.000000", "MUSTARD ROBERT KENNETH", "Director", "P", 15.75, 300, 4725.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CSX", "2025-12-15 00:00:00.000000", "WHISLER J STEVEN", "Director", "A", 37.18, 1681, 62500.0, "Common Stock"]]}

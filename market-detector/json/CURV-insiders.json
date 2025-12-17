@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CURV", "2025-12-03 00:00:00.000000", "FUND 1 INVESTMENTS LLC", "10% Owner", "S", 1.31, -25000, 32750.0, "Common stock par value 0.01 per share"]]}

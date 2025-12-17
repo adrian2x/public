@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CSW", "2025-12-15 00:00:00.000000", "ARMES JOSEPH B", "Chairman President  CEO", "S", 317.4, -1000, 317400.0, "Common Stock"]]}

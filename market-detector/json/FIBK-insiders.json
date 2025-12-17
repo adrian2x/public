@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FIBK", "2025-12-01 00:00:00.000000", "SUSAN SCOTT HEYNEMAN TRUST SUSAN HEYNEMAN FIRST INTERSTATE WEALTH MANAGEMENT COTRUSTEES", "10% Owner", "S", 32.75, -10000, 327500.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["EXPE", "2025-12-01 00:00:00.000000", "BANERJEE MADHUMITA MOINA", "Director", "S", 258.0, -1000, 258000.0, "Common Stock"]]}

@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["INTC", "2025-12-01 00:00:00.000000", "GAWEL SCOTT", "CVP Chief Accounting Officer", "F", 39.99, -6100, 243939.0, "Common Stock"]]}

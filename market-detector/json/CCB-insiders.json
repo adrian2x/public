@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CCB", "2025-12-10 00:00:00.000000", "HOVDE STEVEN D", "Director", "S", 117.25, -3000, 351750.0, "Common Stock"]]}

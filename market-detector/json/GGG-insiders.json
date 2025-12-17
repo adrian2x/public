@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GGG", "2025-12-05 00:00:00.000000", "SIMON ANDREA HELEN", "Director", "A", 83.42, 5400, 450468.0, "Non-qualified Stock Option Right to Buy"]]}

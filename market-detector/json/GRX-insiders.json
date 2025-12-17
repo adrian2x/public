@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["GRX", "2025-12-03 00:00:00.000000", "GABELLI MARIO J", "Director", "P", 9.69, 2500, 24220.0, "Common Shares Par Value 0.001"]]}

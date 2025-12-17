@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["WLFC", "2025-12-04 00:00:00.000000", "WILLIS CHARLES F IV", "Executive Chairman", "D", 126.28, -30000, 3788400.0, "Common Stock"]]}

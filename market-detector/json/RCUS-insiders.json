@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["RCUS", "2025-12-04 00:00:00.000000", "JAEN JUAN C", "President", "S", 24.71, -82997, 2050607.0, "Common Stock"]]}
