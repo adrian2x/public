@@ -1,1 +1,1 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["LFVN", "2025-11-19 00:00:00.000000", "BEINDORFF MICHAEL A", "Director", "S", 6.42, -12607, 80937.0, "Common Stock"]]}
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["LFVN", "2025-12-15 00:00:00.000000", "LEWIS DARWIN", "Director", "P", 6.54, 805, 5265.0, "Common Stock"]]}

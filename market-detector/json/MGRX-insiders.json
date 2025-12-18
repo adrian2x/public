@@ -1,1 +1,1 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MGRX", "2025-12-09 00:00:00.000000", "JOHNSTON EUGENE M", "CFO", "S", 1.2, -5000, 5975.0, "Common Stock"]]}
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MGRX", "2025-12-15 00:00:00.000000", "JOHNSTON EUGENE M", "CFO", "S", 1.17, -3333, 3883.0, "Common Stock"]]}

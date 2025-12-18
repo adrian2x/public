@@ -1,1 +1,1 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CLH", "2025-12-01 00:00:00.000000", "HARRISON ROBERT W", "EVP EHS", "F", 228.54, -122, 27882.0, "Common Stock"]]}
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["CLH", "2025-12-16 00:00:00.000000", "GERSTENBERG ERIC W", "CO-CEO", "S", 240.9, -601, 144781.0, "Common Stock"]]}

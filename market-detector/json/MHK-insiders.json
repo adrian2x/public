@@ -1,1 +1,1 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MHK", "2025-12-11 00:00:00.000000", "HELEN SUZANNE L", "", "S", 112.33, -1000, 112330.0, "Common Stock"]]}
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MHK", "2025-12-17 00:00:00.000000", "HELEN SUZANNE L", "", "S", 109.01, -2700, 294306.0, "Common Stock"]]}

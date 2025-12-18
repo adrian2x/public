@@ -1,1 +1,1 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FMFG", "2025-11-25 00:00:00.000000", "MILLER EMILY BOLLINGER", "Director", "P", 16.0, 750, 12000.0, "FMFG"]]}
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["FMFG", "2025-12-15 00:00:00.000000", "RENBAUM BARRY J", "10% Owner", "J", 16.66, 6905, 115037.0, "Common Stock"]]}
