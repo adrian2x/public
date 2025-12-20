@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["MBAV", "2025-12-17 00:00:00.000000", "CANTOR FITZGERALD CO", "10% Owner", "P", 10.8, 3529081, 38114075.0, "Class A common stock"]]}

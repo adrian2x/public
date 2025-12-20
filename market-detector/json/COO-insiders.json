@@ -1,1 +1,1 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["COO", "2025-12-17 00:00:00.000000", "KURZIUS LAWRENCE ERIK", "Director", "P", 82.5, 2000, 165000.0, "Common Stock"]]}
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["COO", "2025-12-18 00:00:00.000000", "RIVAS MARIA", "Director", "P", 82.13, 1000, 82130.0, "Common Stock"]]}

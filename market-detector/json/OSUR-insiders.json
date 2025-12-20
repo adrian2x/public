@@ -1,1 +1,1 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OSUR", "2025-11-28 00:00:00.000000", "GAGLIANO NANCY J", "Director", "P", 2.37, 2100, 4981.0, "Common Stock"]]}
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["OSUR", "2025-12-17 00:00:00.000000", "KENNY JOHN P", "Director", "A", 2.46, 10286, 25304.0, "Common Stock"]]}
