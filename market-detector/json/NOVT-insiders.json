@@ -1,1 +1,1 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NOVT", "2025-12-15 00:00:00.000000", "SECOR THOMAS N", "Director", "S", 119.67, -748, 89513.0, "Common Stock"]]}
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NOVT", "2025-12-22 00:00:00.000000", "SECOR THOMAS N", "Director", "S", 120.16, -747, 89760.0, "Common Stock"]]}

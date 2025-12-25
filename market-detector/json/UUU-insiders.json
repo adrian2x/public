@@ -1,1 +1,1 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["UUU", "2025-12-18 00:00:00.000000", "AULT MILTON C III", "Director", "P", 4.91, 2069, 10148.0, "Common Stock"]]}
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["UUU", "2025-12-22 00:00:00.000000", "AULT MILTON C III", "Director", "P", 4.98, 2168, 10797.0, "Common Stock"]]}

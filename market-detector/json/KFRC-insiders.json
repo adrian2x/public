@@ -1,1 +1,1 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["KFRC", "2025-09-26 00:00:00.000000", "DUNWOODY ANN E", "Director", "L", 29.94, 236, 7066.0, "Common Stock"]]}
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["KFRC", "2025-12-19 00:00:00.000000", "DUNWOODY ANN E", "Director", "L", 31.81, 225, 7157.0, "Common Stock"]]}

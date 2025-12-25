@@ -1,1 +1,1 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["UFI", "2025-12-04 00:00:00.000000", "LANGONE KENNETH G", "Director", "P", 3.42, 25811, 88274.0, "Common Stock"]]}
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["UFI", "2025-12-19 00:00:00.000000", "BOYD MEREDITH SUZANNE", "EVP", "F", 3.39, -1143, 3875.0, "Common Stock"]]}

@@ -1,1 +1,1 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NXDT", "2025-12-05 00:00:00.000000", "LAFFER ARTHUR B", "Director", "P", 2.87, 9780, 28022.0, "Common Stock"]]}
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["NXDT", "2025-12-18 00:00:00.000000", "MITTS BRIAN", "Director", "S", 4.18, -14449, 60397.0, "Common Stock"]]}

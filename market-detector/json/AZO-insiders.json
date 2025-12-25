@@ -1,1 +1,1 @@
-{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AZO", "2025-12-18 00:00:00.000000", "HANNASCH BRIAN", "Director", "P", 3393.09, 147, 498784.0, "Common Stock"]]}
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["AZO", "2025-12-22 00:00:00.000000", "GEORGE MICHAEL A", "Director", "P", 3398.13, 145, 492729.0, "Common Stock"]]}
