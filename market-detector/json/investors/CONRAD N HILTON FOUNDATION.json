@@ -1,1 +1,1 @@
-{"columns": ["calendardate", "ticker", "securitytype", "pct", "chg", "price", "units", "value"], "data": [["2025-09-30", "IVV", "FND", 0.8975, -0.1667, 669.0, 114347.0, 76532447.0], ["2025-09-30", "IOT", "SHR", 0.1025, 0.1701, 37.0, 234542.0, 8736689.0]]}
+{"columns": ["calendardate", "ticker", "securitytype", "pct", "chg", "price", "units", "value"], "data": [["2025-09-30", "IVV", "FND", 0.8975, null, 669.0, 114347.0, 76532447.0], ["2025-09-30", "IOT", "SHR", 0.1025, null, 37.0, 234542.0, 8736689.0]]}

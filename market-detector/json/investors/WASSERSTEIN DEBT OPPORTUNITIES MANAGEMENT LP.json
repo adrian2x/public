@@ -1,1 +1,1 @@
-{"columns": ["calendardate", "ticker", "securitytype", "pct", "chg", "price", "units", "value"], "data": [["2025-09-30", "CLMT", "SHR", 1.0, 0.0, 18.0, 5817012.0, 106160469.0]]}
+{"columns": ["calendardate", "ticker", "securitytype", "pct", "chg", "price", "units", "value"], "data": [["2025-09-30", "CLMT", "SHR", 1.0, null, 18.0, 5817012.0, 106160469.0]]}

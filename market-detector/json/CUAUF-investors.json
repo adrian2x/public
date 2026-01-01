@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["CUAUF", "2025-09-30", "FNY INVESTMENT ADVISERS LLC", "SHR", 0.0001, 0.0, 40384.0, 35000.0, 0.0]]}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["CUAUF", "2025-09-30", "FNY INVESTMENT ADVISERS LLC", "SHR", 0.0001, null, 40384.0, 35000.0, 0.0]]}

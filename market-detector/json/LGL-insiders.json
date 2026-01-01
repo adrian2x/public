@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["LGL", "2025-12-30 00:00:00.000000", "GABELLI MARIO J", "10% Owner", "P", 4.75, 95387, 453088.0, "Common Stock"]]}

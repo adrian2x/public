@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["ESBS", "2025-09-30", "FNY INVESTMENT ADVISERS LLC", "SHR", 0.0005, -0.14, 21500.0, 158000.0, 7.0]]}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["ESBS", "2025-09-30", "FNY INVESTMENT ADVISERS LLC", "SHR", 0.0005, null, 21500.0, 158000.0, 7.0]]}
