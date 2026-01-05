@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["STR", "2025-09-30", "IFP ADVISORS INC", "SHR", 0.0, null, 212.0, 3841.0, 18.0]]}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["STR", "2025-09-30", "IFP ADVISORS INC", "SHR", 0.0, 0.2045, 212.0, 3841.0, 18.0]]}

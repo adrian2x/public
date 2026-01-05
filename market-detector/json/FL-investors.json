@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FL", "2025-09-30", "NUVEEN LLC", "SHR", 0.0, null, 300166.0, 7206986.0, 24.0], ["FL", "2025-09-30", "IFP ADVISORS INC", "SHR", 0.0, null, 1225.0, 36937.0, 30.0]]}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FL", "2025-09-30", "NUVEEN LLC", "SHR", 0.0, 0.2971, 300166.0, 7206986.0, 24.0], ["FL", "2025-09-30", "IFP ADVISORS INC", "SHR", 0.0, -0.04, 1225.0, 36937.0, 30.0]]}

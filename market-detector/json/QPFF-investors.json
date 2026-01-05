@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["QPFF", "2025-09-30", "IFP ADVISORS INC", "FND", 0.0, null, 2488.0, 88840.0, 35.0]]}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["QPFF", "2025-09-30", "IFP ADVISORS INC", "FND", 0.0, -0.1786, 2488.0, 88840.0, 35.0]]}

@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["MCFNF", "2025-09-30", "STRATEGIC INVESTMENT SOLUTIONS INC", "SHR", 0.0, null, 100.0, 4.0, 0.0]]}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["MCFNF", "2025-09-30", "STRATEGIC INVESTMENT SOLUTIONS INC", "SHR", 0.0, 0.0, 100.0, 4.0, 0.0]]}

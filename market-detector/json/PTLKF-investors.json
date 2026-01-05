@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["PTLKF", "2025-09-30", "ADVISORS MANAGEMENT GROUP INC", "SHR", 0.0, null, 37000.0, 0.0, 0.0]]}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["PTLKF", "2025-09-30", "ADVISORS MANAGEMENT GROUP INC", "SHR", 0.0, 0.0, 37000.0, 0.0, 0.0]]}

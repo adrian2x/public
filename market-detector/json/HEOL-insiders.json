@@ -1,0 +1,1 @@
+{"columns": ["ticker", "date", "ownername", "officertitle", "transactioncode", "transactionpricepershare", "transactionshares", "transactionvalue", "securitytitle"], "data": [["HEOL", "2026-01-01 00:00:00.000000", "JORGENSON RONALD ERIC", "Director", "P", 12000.0, 4, 48000.0, "Limited Liability Company Membership Units"]]}

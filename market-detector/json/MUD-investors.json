@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["MUD", "2025-09-30", "OPTIVER HOLDING BV", "FND", 0.0, null, 29172.0, 322284.0, 11.0]]}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["MUD", "2025-09-30", "OPTIVER HOLDING BV", "FND", 0.0, 0.7267, 29172.0, 322284.0, 11.0]]}
