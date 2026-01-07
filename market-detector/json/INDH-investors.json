@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["INDH", "2025-09-30", "LEO WEALTH LLC", "FND", 0.0003, 0.0, 5846.0, 247720.0, 42.0]]}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["INDH", "2025-09-30", "LEO WEALTH LLC", "FND", 0.0003, 0.0, 5846.0, 247720.0, 42.0], ["INDH", "2025-09-30", "SANCTUARY ADVISORS LLC", "FND", 0.0001, 0.8051, 32087.0, 1367793.0, 42.0]]}

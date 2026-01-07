@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["MHLD", "2025-09-30", "FNY INVESTMENT ADVISERS LLC", "DBT", 0.0012, 0.0041, 24448.0, 369000.0, 15.0]]}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["MHLD", "2025-09-30", "FNY INVESTMENT ADVISERS LLC", "DBT", 0.0012, 0.0041, 24448.0, 369000.0, 15.0], ["MHLD", "2025-09-30", "SANCTUARY ADVISORS LLC", "SHR", 0.0, null, 173337.0, 98854.0, 0.0]]}

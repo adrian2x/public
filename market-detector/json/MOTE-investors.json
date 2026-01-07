@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": []}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["MOTE", "2025-09-30", "SANCTUARY ADVISORS LLC", "FND", 0.0, 0.0, 8961.0, 238996.0, 26.0]]}
