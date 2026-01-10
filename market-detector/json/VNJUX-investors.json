@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": []}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["VNJUX", "2025-12-31", "ADIRONDACK TRUST CO", "FND", 0.0007, null, 18876.0, 214997.0, 11.0]]}

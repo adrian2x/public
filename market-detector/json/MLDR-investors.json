@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": []}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["MLDR", "2025-12-31", "WEALTHCARE INVESTMENT PARTNERS LLC", "FND", 0.0022, null, 14920.0, 740107.0, 49.0]]}

@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["XAGG", "2025-09-30", "KERR FINANCIAL PLANNING CORP", "FND", 0.0004, null, 563.0, 28220.0, 50.0]]}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["XAGG", "2025-12-31", "FULTON BANK NA", "FND", 0.0015, null, 88440.0, 4458259.0, 50.0], ["XAGG", "2025-12-31", "DYNAMIC ADVISOR SOLUTIONS LLC", "FND", 0.0005, null, 33407.0, 1684047.0, 50.0]]}

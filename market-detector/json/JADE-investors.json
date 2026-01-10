@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": []}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["JADE", "2025-12-31", "COOPER FINANCIAL GROUP", "FND", 0.0008, null, 11891.0, 747577.0, 62.0]]}

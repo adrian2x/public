@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": []}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["HEDG", "2025-12-31", "MAGNUS FINANCIAL GROUP LLC", "FND", 0.0016, null, 70741.0, 2075163.0, 29.0]]}

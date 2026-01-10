@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": []}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["BGSI", "2025-12-31", "VALUE PARTNERS INVESTMENTS INC", "SHR", 0.0011, null, 9219.0, 1470560.0, 159.0]]}

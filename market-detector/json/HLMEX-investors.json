@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["HLMEX", "2025-09-30", "FULTON BANK NA", "FND", 0.0001, -0.027, 19492.0, 400376.0, 20.0]]}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["HLMEX", "2025-12-31", "FULTON BANK NA", "FND", 0.0001, -0.1508, 16552.0, 178763.0, 10.0]]}

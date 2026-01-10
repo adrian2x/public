@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": []}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FRMI", "2025-12-31", "GOALVEST ADVISORY LLC", "SHR", 0.0, null, 320.0, 2560.0, 8.0], ["FRMI", "2025-12-31", "GAMMA INVESTING LLC", "SHR", 0.0, null, 59.0, 472.0, 8.0], ["FRMI", "2025-12-31", "ADIRONDACK TRUST CO", "SHR", 0.0, null, 965.0, 7720.0, 8.0]]}

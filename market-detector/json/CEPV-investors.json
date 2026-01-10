@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": []}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["CEPV", "2025-12-31", "TUTTLE CAPITAL MANAGEMENT LLC", "SHR", 0.0045, null, 20000.0, 205000.0, 10.0]]}

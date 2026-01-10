@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": []}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["USEW", "2025-12-31", "WEALTH ENHANCEMENT ADVISORY SERVICES LLC", "FND", 0.0, null, 57256.0, 2960417.0, 51.0]]}

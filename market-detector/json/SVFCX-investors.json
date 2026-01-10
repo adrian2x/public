@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["SVFCX", "2025-09-30", "FULTON BANK NA", "FND", 0.0246, 0.0018, 848492.0, 70509819.0, 83.0]]}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["SVFCX", "2025-12-31", "FULTON BANK NA", "FND", 0.0231, -0.038, 816257.0, 66712777.0, 81.0]]}

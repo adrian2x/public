@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": []}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["BCDS", "2025-12-31", "LYNCH ASSOCIATES", "SHR", 0.0, null, 30000.0, 87.0, 0.0]]}

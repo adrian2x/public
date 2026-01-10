@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": []}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["DLNV", "2025-12-31", "SAGE CAPITAL ADVISORSLLC", "FND", 0.001, null, 12946.0, 403408.0, 31.0]]}

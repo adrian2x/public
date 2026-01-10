@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": []}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["KAMO", "2025-12-31", "FULCRUM EQUITY MANAGEMENT", "FND", 0.006, null, 25065.0, 627252.0, 25.0]]}

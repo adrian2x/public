@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": []}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["MESHU", "2025-12-31", "TUTTLE CAPITAL MANAGEMENT LLC", "SHR", 0.0066, null, 30000.0, 300000.0, 10.0]]}

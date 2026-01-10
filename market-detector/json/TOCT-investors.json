@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": []}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["TOCT", "2025-12-31", "FRAGASSO FINANCIAL ADVISORS INC", "FND", 0.0002, null, 11029.0, 292599.0, 26.0]]}

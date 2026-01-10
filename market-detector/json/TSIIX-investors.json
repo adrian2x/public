@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": []}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["TSIIX", "2025-12-31", "FULTON BANK NA", "FND", 0.0003, null, 73782.0, 855882.0, 11.0]]}

@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": []}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["CBTL", "2025-12-31", "CGN ADVISORS LLC", "FND", 0.0007, null, 42289.0, 881573.0, 20.0]]}

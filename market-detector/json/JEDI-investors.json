@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": []}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["JEDI", "2025-12-31", "NOBLE WEALTH MANAGEMENT PBC", "FND", 0.0002, null, 1525.0, 37013.0, 24.0]]}

@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": []}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["ELE", "2025-12-31", "CWA ASSET MANAGEMENT GROUP LLC", "SHR", 0.0001, null, 18615.0, 315897.0, 16.0]]}

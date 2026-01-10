@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": []}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["SVM1", "2025-12-31", "BURKETT FINANCIAL SERVICES LLC", "SHR", 0.0001, null, 2448.0, 20416.0, 8.0]]}

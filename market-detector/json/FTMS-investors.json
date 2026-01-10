@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": []}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FTMS", "2025-12-31", "WEALTH ENHANCEMENT ADVISORY SERVICES LLC", "FND", 0.0011, null, 8342735.0, 83093640.0, 9.0]]}

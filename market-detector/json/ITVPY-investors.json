@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["ITVPY", "2025-09-30", "RHUMBLINE ADVISERS", "SHR", 0.0, 0.0, 285.0, 3080.0, 10.0]]}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["ITVPY", "2025-12-31", "GAMMA INVESTING LLC", "SHR", 0.0, null, 674.0, 7380.0, 10.0]]}

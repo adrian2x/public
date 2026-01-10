@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": []}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["CAM", "2025-12-31", "DDFG INC", "FND", 0.024, null, 436458.0, 10952920.0, 25.0], ["CAM", "2025-12-31", "CAPITAL ADVANTAGE INC", "FND", 0.0004, null, 12673.0, 318032.0, 25.0], ["CAM", "2025-12-31", "WEALTH ENHANCEMENT ADVISORY SERVICES LLC", "FND", 0.0, null, 17540.0, 441138.0, 25.0]]}

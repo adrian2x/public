@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": []}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["HCKG", "2025-12-31", "PARK NATIONAL CORP", "SHR", 0.0002, null, 19500.0, 565500.0, 29.0]]}

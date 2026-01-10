@@ -1,0 +1,1 @@
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["CBK", "2025-12-31", "COMMUNITY TRUST INVESTMENT CO", "SHR", 0.0048, null, 373000.0, 9160880.0, 24.0], ["CBK", "2025-12-31", "SG AMERICAS SECURITIES LLC", "SHR", 0.0, null, 6244.0, 153000.0, 24.0]]}

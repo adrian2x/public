@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["AZUL", "2025-09-30", "SANCTUARY ADVISORS LLC", "SHR", 0.0, null, 12845.0, 21066.0, 1.0], ["AZUL", "2025-09-30", "RHUMBLINE ADVISERS", "SHR", 0.0, -0.2766, 2354.0, 1529.0, 0.0]]}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": []}

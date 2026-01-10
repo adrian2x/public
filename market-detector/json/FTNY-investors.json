@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": []}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FTNY", "2025-12-31", "ADIRONDACK TRUST CO", "FND", 0.0008, null, 29772.0, 233411.0, 7.0], ["FTNY", "2025-12-31", "OMC FINANCIAL SERVICES LTD", "FND", 0.0003, null, 10127.0, 79446.0, 7.0]]}

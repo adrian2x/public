@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": []}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["GRNJ", "2025-12-31", "FIRST HEARTLAND CONSULTANTS INC", "FND", 0.0005, null, 27973.0, 714710.0, 25.0], ["GRNJ", "2025-12-31", "TRUEWEALTH ADVISORS LLC", "FND", 0.0005, null, 8072.0, 206240.0, 25.0]]}

@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": []}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["BLLN", "2025-12-31", "GREEN ALPHA ADVISORS LLC", "SHR", 0.004, null, 5326.0, 435880.0, 81.0], ["BLLN", "2025-12-31", "GAMMA INVESTING LLC", "SHR", 0.0, null, 3.0, 246.0, 82.0]]}

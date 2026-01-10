@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": []}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["FTCA", "2025-12-31", "SOVEREIGN FINANCIAL GROUP INC", "FND", 0.0003, null, 25420.0, 186074.0, 7.0]]}

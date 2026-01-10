@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": []}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["AEAQU", "2025-12-31", "TUTTLE CAPITAL MANAGEMENT LLC", "SHR", 0.0022, null, 10000.0, 99950.0, 9.0]]}

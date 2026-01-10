@@ -1,1 +1,1 @@
-{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": []}
+{"columns": ["ticker", "calendardate", "investorname", "securitytype", "pct", "chg", "units", "value", "price"], "data": [["DNMX", "2025-12-31", "TUTTLE CAPITAL MANAGEMENT LLC", "SHR", 0.0056, null, 25000.0, 251250.0, 10.0]]}
